@@ -21,11 +21,11 @@ IJTCS-FAW 2024 is calling for papers concerning any branch of theoretical comput
 
 ## Schedule
 
-|           |                 | Monday      | Tuesday    | Wednesday  | 
-| --------- |:--------------- |:----------- | ---------- | ---------- | 
-| morning   |                 | conference  | conference | conference | 
-| afternoon |                 | conference  | conference | -          | 
-| evening   | light reception |             | Banquet    |            | 
+|           |                 | Monday 30/6 | Tuesday 1/7 | Wednesday 2/7| 
+| --------- |:--------------- |:----------- | ----------- | ------------ | 
+| morning   |                 | conference  | conference  | conference   | 
+| afternoon |                 | conference  | conference  |              | 
+| evening   | light reception |             | Banquet     |              | 
 
 
 ## Previous editions
