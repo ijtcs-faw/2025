@@ -1,4 +1,5 @@
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+remote_theme: zendesk/jekyll-theme-zendesk-garden
+
 sidebar:
  - index
  - cpf
