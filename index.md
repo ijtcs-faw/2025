@@ -6,7 +6,7 @@ International Joint Conference on Theoretical Computer Science – Frontier of A
 
 # TOC
 
-[[_TOC_]]
+ {{ content }}
 
 ![photo of the Jussieu campus of Sorbonne University](fred_romero_jussieu.jpg)
 
