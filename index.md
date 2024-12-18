@@ -1,8 +1,8 @@
 ---
-title: IJTCS-FAW
+title: ![](logo100.png)
 ---
 
-![](logo.png) International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom
+International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom
 
 
 ![photo of the Jussieu campus of Sorbonne University](fred_romero_jussieu.jpg)
