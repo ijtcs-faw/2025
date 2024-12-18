@@ -1,10 +1,12 @@
 ---
-title: International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW 2025)
+title: IJTCS-FAW
 ---
+
+International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom
 
 # TOC
 
-{:toc}
+[[_TOC_]]
 
 ![photo of the Jussieu campus of Sorbonne University](fred_romero_jussieu.jpg)
 
