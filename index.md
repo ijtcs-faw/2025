@@ -4,7 +4,7 @@ title: The IJTCS-FAW conference websites
 
 # International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW 2025)
 
-![](fred_romero_jussieu.jpg)
+![photo by Fred Romero](fred_romero_jussieu.jpg)
 
 ## Overview
 
