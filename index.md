@@ -1,6 +1,7 @@
 ---
-title: IJTCS-FAW
 id: index
+title: IJTCS-FAW
+sidebar_label: Homepage
 ---
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
