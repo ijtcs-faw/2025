@@ -1,1 +1,4 @@
 theme: minima
+sidebar:
+ - index
+ - cpf
