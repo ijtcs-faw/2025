@@ -1,5 +1,5 @@
 ---
-title: ![](logo100.png)
+title: IJTCS-FAW
 ---
 
 International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom
