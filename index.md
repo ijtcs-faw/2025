@@ -8,6 +8,7 @@ sidebar_label: Homepage
 
 International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom
 
+Monday June 30 to Wednesday July 2, 2025, Sorbonne University, Paris, France
 
 ![photo of the Jussieu campus of Sorbonne University](fred_romero_jussieu.jpg)
 
@@ -22,11 +23,11 @@ IJTCS-FAW 2024 is calling for papers concerning any branch of theoretical comput
 
 ## Schedule
 
-|           |                 | Monday 30/6 | Tuesday 1/7 | Wednesday 2/7| 
-| --------- |:--------------- |:----------- | ----------- | ------------ | 
-| morning   |                 | conference  | conference  | conference   | 
-| afternoon |                 | conference  | conference  |              | 
-| evening   | light reception |             | Banquet     |              | 
+|           | Monday 30/6       | Tuesday 1/7 | Wednesday 2/7| 
+| --------- |:----------------- | ----------- | ------------ | 
+| morning   | conference        | conference  | conference   | 
+| afternoon | conference        | conference  |              | 
+| evening   |  light reception  | Banquet     |              | 
 
 
 ## Previous editions
