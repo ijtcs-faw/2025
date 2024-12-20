@@ -10,7 +10,7 @@ International Joint Conference on Theoretical Computer Science – Frontier of A
 
 Monday June 30 to Wednesday July 2, 2025, Sorbonne University, Paris, France
 
-![photo of the Jussieu campus of Sorbonne University](fred_romero_jussieu.jpg)
+![photo of the Jussieu campus of Sorbonne University](fred_romero_jussieu_wide.jpg)
 
 ©️ photo by [Fred Romero](https://www.flickr.com/people/129231073@N06/)
 
