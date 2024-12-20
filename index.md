@@ -109,12 +109,12 @@ Typical but not exclusive topics of interest are:
   - [Xiaoming Sun](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328241.html)  
 - Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
   - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/) 
-- Track on game theory, algorithmic game theory, machine learning, electronic commerce
+- Track B: on block-chain, distributed computing
+  - [Maria Potop-Butucaru](https://lip6.fr/Maria.Potop-Butucaru)  
+- Track C: on game theory, algorithmic game theory, machine learning, electronic commerce
   - [Vianney Perchet](https://www.ensae.fr/faculty/670-vianney-perchet)
   - [Johanne Cohen](https://www.lri.fr/~jcohen/fr/) 
   - [Yukun Cheng](http://busi.jiangnan.edu.cn/english/info/1892/10794.htm) 
-- Track on block-chain, distributed computing
-  - [Maria Potop-Butucaru](https://lip6.fr/Maria.Potop-Butucaru)  
 - local organisation
   - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis)
   - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm)
