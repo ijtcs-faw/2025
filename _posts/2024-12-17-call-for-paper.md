@@ -1,6 +1,8 @@
 ---
+id: cpf
 title: Call for paper
 date: 2024-12-17
+sidebar_label: Call for paper
 ---
 
 # International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW 2025)
