@@ -6,9 +6,6 @@ sidebar_label: Homepage
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 
-International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom
-
-Monday June 30 to Wednesday July 2, 2025, Sorbonne University, Paris, France
 
 ![photo of the Jussieu campus of Sorbonne University](fred_romero_jussieu_wide.jpg)
 
