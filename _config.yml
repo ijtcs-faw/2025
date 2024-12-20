@@ -1,4 +1,4 @@
-remote_theme: minima
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 sidebar:
  - index
  - cpf
