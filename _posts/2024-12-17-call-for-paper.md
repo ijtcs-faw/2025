@@ -16,7 +16,7 @@ IJTCS-FAW 2024 is calling for papers concerning any branch of theoretical comput
 
 
 
-- Submission deadline: 29 January 2025 
+- Submission deadline: 29 January 2025 (anytime on earth)
 - Notification: 20 March 2025
 - Full version: 20 April 2025
 - Conference dates: Monday June 30 (noon) to Wednesday July 2 (noon)
