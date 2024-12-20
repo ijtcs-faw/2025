@@ -29,7 +29,7 @@ IJTCS-FAW 2024 is calling for papers concerning any branch of theoretical comput
 ## Submission
 
 
-Authors are invited to submit an extended abstract of no more than 12 pages, excluding references and the front page(s) (authors, affiliation, keywords, abstract, ...), presenting original research on the theory of computer science. Technical details necessary for a proper scientific evaluation of a submission must be included in the 12-page submission or in a clearly labelled appendix, to be consulted at the discretion of program committee members. Authors are encouraged to also make full versions of their submissions freely accessible in an online repository such as ArXiv, HAL, ECCC.
+Authors are invited to submit an extended abstract of no more than 12 pages, excluding references and the front page(s) (authors, affiliation, keywords, abstract, ...), presenting original research on the theory of computer science. Technical details necessary for a proper scientific evaluation of a submission must be included in the 12-page submission or in a clearly labelled appendix, to be consulted at the discretion of program committee members. Authors are encouraged to also make full versions of their submissions freely accessible in an online repository such as ArXiv.
 
 Submissions must be formatted in the [LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). All submission must be submitted via EasyChair using the following link:
 
@@ -103,7 +103,7 @@ Typical but not exclusive topics of interest are:
   - [John E. Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft) 
 - General Chair
   - [Li Hao](https://www.lri.fr/~li/English.html) 
-- Program Committee Chair 
+- Program Committee Chairs 
   - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr)  
   - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/)  
   - [Xiaoming Sun](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328241.html)  
