@@ -1,4 +1,4 @@
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+theme: leap-day
 sidebar:
  - cpf
  - index
