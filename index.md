@@ -117,7 +117,7 @@ Typical but not exclusive topics of interest are:
   - [Maria Potob-Butucaru](https://lip6.fr/Maria.Potop-Butucaru)  
 - local organisation
   - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis)
-  - [Vincent Chau](https://cse.seu.edu.cn/49354/list.htm)
+  - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm)
   - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr) 
 
 ## Special Issue
