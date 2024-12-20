@@ -37,6 +37,8 @@ IJTCS-FAW 2024 is calling for papers concerning any branch of theoretical comput
 - joint IJTCS-FAW started in 2021
 - [2024](http://ijtcs2024.comp.polyu.edu.hk/program.html)
 
+[Link to another page](./cfp.html).
+
 ## Committees
 
 
