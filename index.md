@@ -114,7 +114,7 @@ Typical but not exclusive topics of interest are:
   - [Johanne Cohen](https://www.lri.fr/~jcohen/fr/) 
   - [Yukun Cheng](http://busi.jiangnan.edu.cn/english/info/1892/10794.htm) 
 - Track on block-chain, distributed computing
-  - [Maria Potob-Butucaru](https://lip6.fr/Maria.Potop-Butucaru)  
+  - [Maria Potop-Butucaru](https://lip6.fr/Maria.Potop-Butucaru)  
 - local organisation
   - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis)
   - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm)
