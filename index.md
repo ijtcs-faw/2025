@@ -97,8 +97,6 @@ Typical but not exclusive topics of interest are:
 
 ## Committees
 
-
-
 - Conference Chair
   - [John E. Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft) 
 - General Chair
@@ -115,7 +113,7 @@ Typical but not exclusive topics of interest are:
   - [Vianney Perchet](https://www.ensae.fr/faculty/670-vianney-perchet)
   - [Johanne Cohen](https://www.lri.fr/~jcohen/fr/) 
   - [Yukun Cheng](http://busi.jiangnan.edu.cn/english/info/1892/10794.htm) 
-- local organisation
+- Local Organisation
   - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis)
   - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm)
   - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr) 
@@ -128,10 +126,12 @@ After the conference, selected papers will be invited to special issues in: Theo
 
 |           | Monday 30/6       | Tuesday 1/7 | Wednesday 2/7| 
 | --------- |:----------------- | ----------- | ------------ | 
-| morning   | conference        | conference  | conference   | 
-| afternoon | conference        | conference  |              | 
-| evening   |  light reception  | Banquet     |              | 
+| Morning   | conference        | conference  | conference   | 
+| Afternoon | conference        | conference  |              | 
+| Evening   | light reception   | Banquet     |              | 
 
+## Keynotes
+- [Shanghua Teng](https://viterbi-web.usc.edu/~shanghua/)
 
 ## Previous editions
 
