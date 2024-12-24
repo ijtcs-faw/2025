@@ -67,6 +67,7 @@ This track focuses on original studies on blockchains, cryptocurrencies and dist
 - Equilibrium and game theoretic analysis for blockchains
 - Transaction fees and tokenomics
 - Network formation games, network structure and performance studies
+- Multi-agent systems
 - Mean field games, stochastic games, evolutionary games in blockchains
 - Financial markets
 - Information elicitation and oracles
