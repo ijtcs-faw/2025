@@ -139,7 +139,23 @@ After the conference, selected papers will be invited to special issues in: Theo
 - FAW started in 2007
 - IJTCS started in 2020
 - joint IJTCS-FAW started in 2021
-- [2024](http://ijtcs2024.comp.polyu.edu.hk/program.html)
 
-
-
+- [IJTCS-FAW-2024](http://ijtcs2024.comp.polyu.edu.hk/program.html): Hong Kong, China
+- [IJTCS-FAW-2023](https://conferences.cis.um.edu.mo/ijtcs2023/): Macao, China
+- [IJTCS-FAW-2022](https://conference.cs.cityu.edu.hk/ijtcs2022/): Hong Kong, China
+- [IJTCS-FAW-2021](https://econcs.pku.edu.cn/ijtcs2021/index.htm): Beijing, China
+- [IJTCS-2020](https://econcs.pku.edu.cn/ijtcs2020/IJTCS2020.html): Beijing, China
+- FAW-2020: Haikou, China
+- [FAW-2019](http://people.iiis.tsinghua.edu.cn/~jianli/FAW2019/FAW2019.html): Sanya, China
+- FAW-2018: Guangzhou, China
+- FAW 2017: Chengdu, China
+- FAW 2016: Qingdao, China
+- FAW 2015: Guilin, China
+- FAW 2014: Zhangjiajie, China
+- FAW 2013: Dalian, China
+- FAW 2012: Beijing, China
+- FAW 2011: Jinhua, China
+- FAW 2010: Wuhan, China
+- FAW 2009: Hefei, China
+- FAW 2008: Changsha, China
+- FAW 2007: Lanzhou, China
