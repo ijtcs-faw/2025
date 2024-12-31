@@ -2,6 +2,4 @@ theme: jekyll-theme-leap-day
 show_downloads: false
 github:
  is_project_page: false
-markdown_extensions:   
-- toc:       
-    toc_depth: '1'
+
