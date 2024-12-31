@@ -40,7 +40,7 @@ The proceedings of the conference will be published by Springer-Verlag in the Le
 
 Papers will be reviewed according to the following tracks that includes 
 
-### Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
+#### Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
 
 This track focuses on current trends of research on algorithms, discrete structures, and their applications. Typical but not exclusive topics of interest are:
 - Algorithms and data structures
@@ -57,7 +57,7 @@ This track focuses on current trends of research on algorithms, discrete structu
 - Optimization algorithms in economic and operations research
 - Parameterized algorithms
 
-### Track B: Block-chain, distributed computing
+#### Track B: Block-chain, distributed computing
 
 This track focuses on original studies on blockchains, cryptocurrencies and distributed financial markets. Papers may report the most recent developments on the theory, design, implementation, and analysis of blockchain infrastructure, economics, security, performance, interoperability, and other topics related to blockchains and distributed ledgers at large. Typical but not exclusive topics of interest are:
 - Consensus protocols and scalability
@@ -77,7 +77,7 @@ This track focuses on original studies on blockchains, cryptocurrencies and dist
 - Privacy and anonymity, privacy-oriented computation
 - Quantum-resilient cryptography and its applications in blockchains and financial markets
 
-### Track C: Game theory, algorithmic game theory, machine learning, electronic commerce
+#### Track C: Game theory, algorithmic game theory, machine learning, electronic commerce
 
 Typical but not exclusive topics of interest are:
 - Algorithmic Mechanism Design
