@@ -2,7 +2,7 @@
 id: index
 title: IJTCS-FAW
 sidebar_label: Homepage
-:tocdepth: 2
+tocdepth: 2
 ---
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
