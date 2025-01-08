@@ -105,7 +105,6 @@ Typical but not exclusive topics of interest are:
 - Program Committee Chairs 
   - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr)  
   - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/)  
-  - [Xiaoming Sun](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328241.html)  
 - Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
   - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/) 
 - Track B: on block-chain, distributed computing
@@ -132,6 +131,8 @@ After the conference, selected papers will be invited to special issues in: Theo
 | Evening   | light reception   | Banquet     |              | 
 
 ## Keynotes
+- [Gabrielle Demange](https://en.wikipedia.org/wiki/Gabrielle_Demange)
+- [Xiaoming Sun](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328241.html)  
 - [Shanghua Teng](https://viterbi-web.usc.edu/~shanghua/)
 
 ## Previous editions
