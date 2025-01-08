@@ -16,7 +16,7 @@ sidebar_label: Homepage
 
 International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW 2025) will be held on Monday June 30 to Wednesday July 2, 2025, hosted by Sorbonne University, Paris, France. We aim to provide a platform for advancing theoretical computer science and promoting the exchange of knowledge and ideas. It is the 6th IJTCS and 19th FAW. 
 
-IJTCS-FAW 2025 is calling for papers concerning any branch of theoretical computer science, together with focus tracks in Algorithm and Complexity, Algorithmic Game Theory, Automata Theory and Formal Languages, Blockchain, Computational Biology and Bioinformatics, Computational Geometry, Formal Methods and Verification, Graph Theory and Algorithms, Multi-agent Reinforcement Learning, Network Economics, Parallel and Distributed Algorithms, Quantum Computation, Theoretical Aspects of Artificial Intelligence, Theory of Machine Learning. 
+IJTCS-FAW 2025 is calling for papers concerning any branch of theoretical computer science, together with focus tracks in Algorithm and Complexity, Algorithmic Game Theory, Automata Theory and Formal Languages, Blockchain, Computational Biology and Bioinformatics, Computational Geometry, Formal Methods and Verification, Graph Theory and Algorithms, Multi-agent Reinforcement Learning, Network Economics, Parallel and Distributed Algorithms, Quantum Computation. 
 
 ## Important dates
 
@@ -44,6 +44,7 @@ Papers will be reviewed according to the following tracks that includes
 This track focuses on current trends of research on algorithms, discrete structures, and their applications. Typical but not exclusive topics of interest are:
 - Algorithms and data structures
 - Approximation algorithms and online algorithms
+- Parallel and Distributed Algorithms
 - Bioinformatics
 - Combinatorial optimization
 - Combinatorics and discrete structures related to algorithms and complexity
@@ -55,6 +56,8 @@ This track focuses on current trends of research on algorithms, discrete structu
 - Learning based algorithms
 - Optimization algorithms in economic and operations research
 - Parameterized algorithms
+- Automata Theory and Formal Languages
+- Formal Methods and Verification
 
 #### Track B: Block-chain, distributed computing
 
@@ -131,6 +134,7 @@ After the conference, selected papers will be invited to special issues in: Theo
 | Evening   | light reception   | Banquet     |              | 
 
 ## Keynotes
+
 - [Gabrielle Demange](https://en.wikipedia.org/wiki/Gabrielle_Demange)
 - [Xiaoming Sun](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328241.html)  
 - [Shanghua Teng](https://viterbi-web.usc.edu/~shanghua/)
