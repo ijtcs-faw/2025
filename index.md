@@ -104,7 +104,8 @@ Typical but not exclusive topics of interest are:
 ## Committees
 
 - Conference Chair
-  - [John E. Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft) 
+  - [John E. Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft)
+  - [Huimin Lin](https://people.ucas.ac.cn/~lhm?language=en)
 - General Chair
   - [Li Hao](https://www.lri.fr/~li/English.html) 
 - Program Committee Chairs 
