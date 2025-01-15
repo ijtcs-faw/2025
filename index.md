@@ -172,6 +172,6 @@ After the conference, selected papers will be invited to special issues in: Theo
 
 We would like to thank the following organizations for supporting the conference.
 
-![](https://www.ccf.org.cn/images/images/2023yw.png)
+![](ccf.png)
 
-![](https://gdrro.lip6.fr/sites/default/files/LOGO-GDR_ROD_small.png)
+![](gdr-rod.png)
