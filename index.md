@@ -112,9 +112,11 @@ Typical but not exclusive topics of interest are:
   - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr)  
   - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/)  
 - Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
-  - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/) 
+  - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/)
+  - [Hsiang-Hsuan (Alison) Liu](https://www.uu.nl/staff/HHLiu/CV)
 - Track B: on block-chain, distributed computing
-  - [Maria Potop-Butucaru](https://lip6.fr/Maria.Potop-Butucaru)  
+  - [Maria Potop-Butucaru](https://lip6.fr/Maria.Potop-Butucaru)
+  - [Ralf	Klasing](https://www.labri.fr/perso/klasing/)
 - Track C: on game theory, algorithmic game theory, machine learning, electronic commerce
   - [Vianney Perchet](https://www.ensae.fr/faculty/670-vianney-perchet)
   - [Johanne Cohen](https://www.lri.fr/~jcohen/fr/) 
