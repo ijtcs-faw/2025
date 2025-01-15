@@ -167,3 +167,11 @@ After the conference, selected papers will be invited to special issues in: Theo
 - FAW 2009: Hefei, China
 - FAW 2008: Changsha, China
 - FAW 2007: Lanzhou, China
+
+## Financial support
+
+We would like to thank the following organizations for supporting the conference.
+
+![](https://www.ccf.org.cn/images/images/2023yw.png)
+
+![](http://gdrro.lip6.fr/sites/default/files/LOGO-GDR_ROD_small.png)
