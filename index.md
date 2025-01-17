@@ -133,9 +133,12 @@ Typical but not exclusive topics of interest are:
 
 ## Special Issue
 
-After the conference, selected papers will be invited to special issues in: Theoretical Computer Science, Journal of Combinatorial Optimization, and Theory of Computing Systems.
+After the conference, selected papers will be invited to special issues in: Theoretical Computer Science, Journal of Combinatorial Optimization, Theory of Computing Systems, and Blockchains.
 
 ![](images/tcs.jpg)
+![](images/joco.jpg)
+![](images/tocs.jpg)
+![](images/blockchains.jpg)
 
 ## Schedule
 
