@@ -135,6 +135,8 @@ Typical but not exclusive topics of interest are:
 
 After the conference, selected papers will be invited to special issues in: Theoretical Computer Science, Journal of Combinatorial Optimization, and Theory of Computing Systems.
 
+![](images/tcs.jpg)
+
 ## Schedule
 
 |           | Monday 30/6       | Tuesday 1/7 | Wednesday 2/7| 
