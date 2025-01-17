@@ -121,10 +121,12 @@ Typical but not exclusive topics of interest are:
   - [Vianney Perchet](https://www.ensae.fr/faculty/670-vianney-perchet)
   - [Johanne Cohen](https://www.lri.fr/~jcohen/fr/) 
   - [Yukun Cheng](http://busi.jiangnan.edu.cn/english/info/1892/10794.htm) 
-- Local Organisation
+- Local Organisation (ijtcs-faw@listes.lip6.fr)
   - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis)
   - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm)
-  - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr) 
+  - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr)
+ 
+  
 
 ## Special Issue
 
