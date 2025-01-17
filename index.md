@@ -110,13 +110,16 @@ Typical but not exclusive topics of interest are:
   - [Li Hao](https://www.lri.fr/~li/English.html) 
 - Program Committee Chairs 
   - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr)  
-  - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/)  
+  - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/)
+  - [Pinyan Lu](http://pinyanlu.com)
 - Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
   - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/)
   - [Hsiang-Hsuan (Alison) Liu](https://www.uu.nl/staff/HHLiu/CV)
+  - [Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html)
 - Track B: on block-chain, distributed computing
   - [Maria Potop-Butucaru](https://lip6.fr/Maria.Potop-Butucaru)
   - [Ralf	Klasing](https://www.labri.fr/perso/klasing/)
+  - [Jiasun Li](https://www.gmu.edu/profiles/jli29)
 - Track C: on game theory, algorithmic game theory, machine learning, electronic commerce
   - [Vianney Perchet](https://www.ensae.fr/faculty/670-vianney-perchet)
   - [Johanne Cohen](https://www.lri.fr/~jcohen/fr/) 
