@@ -115,6 +115,7 @@ Typical but not exclusive topics of interest are:
 - Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
   - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/)
   - [Hsiang-Hsuan (Alison) Liu](https://www.uu.nl/staff/HHLiu/CV)
+  - [Sylvain Sené](https://pageperso.lis-lab.fr/~sylvain.sene/)
   - [Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html)
 - Track B: on block-chain, distributed computing
   - [Maria Potop-Butucaru](https://lip6.fr/Maria.Potop-Butucaru)
