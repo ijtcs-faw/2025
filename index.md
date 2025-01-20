@@ -188,3 +188,5 @@ We would like to thank the following organizations for supporting the conference
 ![](ccf.png)
 
 ![](gdr-rod.png)
+
+![](images/csiam.jpg)
