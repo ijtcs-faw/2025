@@ -117,7 +117,7 @@ Typical but not exclusive topics of interest are:
   - [Hsiang-Hsuan (Alison) Liu](https://www.uu.nl/staff/HHLiu/CV)
   - [Sylvain Sené](https://pageperso.lis-lab.fr/~sylvain.sene/)
   - [Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html)
-- Track B: on block-chain, distributed computing
+- Track B: on block-chain, distributed computing, multi-agents
   - [Maria Potop-Butucaru](https://lip6.fr/Maria.Potop-Butucaru)
   - [Ralf	Klasing](https://www.labri.fr/perso/klasing/)
   - [Jiasun Li](https://www.gmu.edu/profiles/jli29)
