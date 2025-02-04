@@ -120,6 +120,7 @@ Typical but not exclusive topics of interest are:
 - Track B: on block-chain, distributed computing, multi-agents
   - [Ralf	Klasing](https://www.labri.fr/perso/klasing/)
   - [Jiasun Li](https://www.gmu.edu/profiles/jli29)
+  - [Gewu Bu](https://limos.fr/detailperson/405)
 - Track C: on game theory, algorithmic game theory, machine learning, electronic commerce
   - [Vianney Perchet](https://www.ensae.fr/faculty/670-vianney-perchet)
   - [Johanne Cohen](https://www.lri.fr/~jcohen/fr/) 
