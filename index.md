@@ -118,7 +118,6 @@ Typical but not exclusive topics of interest are:
   - [Sylvain Sené](https://pageperso.lis-lab.fr/~sylvain.sene/)
   - [Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html)
 - Track B: on block-chain, distributed computing, multi-agents
-  - [Maria Potop-Butucaru](https://lip6.fr/Maria.Potop-Butucaru)
   - [Ralf	Klasing](https://www.labri.fr/perso/klasing/)
   - [Jiasun Li](https://www.gmu.edu/profiles/jli29)
 - Track C: on game theory, algorithmic game theory, machine learning, electronic commerce
