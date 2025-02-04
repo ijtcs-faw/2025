@@ -59,7 +59,7 @@ This track focuses on current trends of research on algorithms, discrete structu
 - Automata Theory and Formal Languages
 - Formal Methods and Verification
 
-#### Track B: Block-chain, distributed computing
+#### Track B: Block-chain, distributed computing, multi-agents
 
 This track focuses on original studies on blockchains, cryptocurrencies and distributed financial markets. Papers may report the most recent developments on the theory, design, implementation, and analysis of blockchain infrastructure, economics, security, performance, interoperability, and other topics related to blockchains and distributed ledgers at large. Typical but not exclusive topics of interest are:
 - Consensus protocols and scalability
@@ -188,5 +188,7 @@ We would like to thank the following organizations for supporting the conference
 ![](ccf.png)
 
 ![](gdr-rod.png)
+
+## Supporting Organization
 
 ![](images/csiam.jpg)
