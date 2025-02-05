@@ -104,27 +104,36 @@ Typical but not exclusive topics of interest are:
 ## Committees
 
 - Conference Chair
-  - [John E. Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft)
-  - [Huimin Lin](https://people.ucas.ac.cn/~lhm?language=en)
+  - [John E. Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft), Cornell University, USA
+  - [Huimin Lin](https://people.ucas.ac.cn/~lhm?language=en), University of Chinese Academy of Sciences, China
 - General Chair
-  - [Li Hao](https://www.lri.fr/~li/English.html) 
+  - [Li Hao](https://www.lri.fr/~li/English.html), LISN University Paris Saclay, France
 - Program Committee Chairs 
-  - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr)  
-  - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/)
-  - [Pinyan Lu](http://pinyanlu.com)
+  - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr), Sorbonne University, France
+  - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), City University of Hong Kong, China
+  - [Pinyan Lu](http://pinyanlu.com), Shanghai University of Finance and Economics, China
 - Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
-  - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/)
-  - [Hsiang-Hsuan (Alison) Liu](https://www.uu.nl/staff/HHLiu/CV)
-  - [Sylvain Sené](https://pageperso.lis-lab.fr/~sylvain.sene/)
-  - [Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html)
+  - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis), Sorbonne University, France
+  - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/) (co-chair), Durham University, UK
+  - [Hsiang-Hsuan Liu](https://www.uu.nl/staff/HHLiu/CV), Utrecht University, Netherlands
+  - [Sylvain Sené](https://pageperso.lis-lab.fr/~sylvain.sene/), Aix-Marseille University, France
+  - [Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html) (co-chair), Institute of Computing Technology,  Chinese Academy of Science, China
+  - [Ruilong Zhang](https://ruilong-zhang.github.io), Technische Universität München, Germany
 - Track B: on block-chain, distributed computing, multi-agents
-  - [Ralf	Klasing](https://www.labri.fr/perso/klasing/)
-  - [Jiasun Li](https://www.gmu.edu/profiles/jli29)
-  - [Gewu Bu](https://loop.frontiersin.org/people/1316129/overview)
+  - [Gewu Bu](https://loop.frontiersin.org/people/1316129/overview), University Clermont Auvergne, France
+  - [Ralf Klasing](https://www.labri.fr/perso/klasing/) (co-chair), University of Bordeaux, France
+  - [Jiasun Li](https://www.gmu.edu/profiles/jli29) (co-chair), George Mason University, USA
+  - [Ye Wang](https://www.ye.wang), Macau University, China
 - Track C: on game theory, algorithmic game theory, machine learning, electronic commerce
-  - [Vianney Perchet](https://www.ensae.fr/faculty/670-vianney-perchet)
-  - [Johanne Cohen](https://www.lri.fr/~jcohen/fr/) 
-  - [Yukun Cheng](http://busi.jiangnan.edu.cn/english/info/1892/10794.htm) 
+  - [Xiaohui Bei](https://dr.ntu.edu.sg/cris/rp/rp00196), Nanyang Technological University, Singapore
+  - [Yukun Cheng](http://busi.jiangnan.edu.cn/english/info/1892/10794.htm) (co-chair), Jiangnan University, China
+  - [Johanne Cohen](https://www.lri.fr/~jcohen/fr/) (co-chair), University Paris Saclay, France
+  - [Vianney Perchet](https://www.ensae.fr/faculty/670-vianney-perchet) (co-chair), ENSAE Paris, France
+  - [Warut Suksompong](https://www.comp.nus.edu.sg/~warut/), National University of Singapore, Singapore
+  - [Zihe Wang](https://gsai.ruc.edu.cn/english/wangzihe), Renmin University of China, China
+  - [Xiaowei Wu](https://sites.google.com/site/wxw0711/), University of Macau, China
+  - [Jinshan Zhang](https://person.zju.edu.cn/en/zhangjinshan), Zhejiang University, China
+  - [Dengji Zhao](http://dengji-zhao.net), ShanghaiTech University, China
 - Local Organisation (ijtcs-faw@listes.lip6.fr)
   - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis)
   - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm)
