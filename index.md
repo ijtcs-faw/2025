@@ -126,6 +126,7 @@ Typical but not exclusive topics of interest are:
   - [Ye Wang](https://www.ye.wang), Macau University, China
 - Track C: on game theory, algorithmic game theory, machine learning, electronic commerce
   - [Xiaohui Bei](https://dr.ntu.edu.sg/cris/rp/rp00196), Nanyang Technological University, Singapore
+  - [Yurong Chen](https://ruyc.github.io), Inria Paris, France
   - [Yukun Cheng](http://busi.jiangnan.edu.cn/english/info/1892/10794.htm) (co-chair), Jiangnan University, China
   - [Johanne Cohen](https://www.lri.fr/~jcohen/fr/) (co-chair), University Paris Saclay, France
   - [Vianney Perchet](https://www.ensae.fr/faculty/670-vianney-perchet) (co-chair), ENSAE Paris, France
