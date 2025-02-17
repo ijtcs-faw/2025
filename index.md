@@ -179,7 +179,7 @@ After the conference, selected papers will be invited to special issues in: Theo
 - FAW-2020: Haikou, China
 - [FAW-2019](http://people.iiis.tsinghua.edu.cn/~jianli/FAW2019/FAW2019.html): Sanya, China
 - FAW-2018: Guangzhou, China
-- FAW 2017: Chengdu, China
+- [FAW 2017](https://tcsuestc.com/FAW2017/): Chengdu, China
 - FAW 2016: Qingdao, China
 - FAW 2015: Guilin, China
 - FAW 2014: Zhangjiajie, China
