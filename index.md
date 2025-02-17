@@ -113,7 +113,7 @@ Typical but not exclusive topics of interest are:
   - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), City University of Hong Kong, China
   - [Pinyan Lu](http://pinyanlu.com), Shanghai University of Finance and Economics, China
 - Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
-  - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm)
+  - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm), Université Évry Paris-Saclay
   - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis), Sorbonne University, France
   - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/) (co-chair), Durham University, UK
   - [Hsiang-Hsuan Liu](https://www.uu.nl/staff/HHLiu/CV), Utrecht University, Netherlands
