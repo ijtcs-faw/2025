@@ -113,6 +113,7 @@ Typical but not exclusive topics of interest are:
   - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), City University of Hong Kong, China
   - [Pinyan Lu](http://pinyanlu.com), Shanghai University of Finance and Economics, China
 - Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
+  - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm)
   - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis), Sorbonne University, France
   - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/) (co-chair), Durham University, UK
   - [Hsiang-Hsuan Liu](https://www.uu.nl/staff/HHLiu/CV), Utrecht University, Netherlands
@@ -140,7 +141,19 @@ Typical but not exclusive topics of interest are:
   - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm)
   - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr)
  
-  
+### Advisor Committee
+
+- [Wen Gao](https://cfcs.pku.edu.cn/english/people/directors/wengao/index.htm), Peking University
+- [Hong Mei](http://faculty.pku.edu.cn/meih/en/zdylm/43525/list/index.htm) CCF President
+- [Pingwen Zhang](https://en.whu.edu.cn/info/1345/7111.htm), CSIAM President and Wuhan University
+
+### Steering Committee
+
+- [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Peking University
+- [Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/), Tsinghua University
+- [Pinyan Lu](http://pinyanlu.com), Shanghai University of Finance and Economics, China
+- [Jianwei Huang](https://jianwei.cuhk.edu.cn/), Chinese University of Hong Kong Shenzhen
+- [Lijun Zhang](https://tis.ios.ac.cn/people/lijun-zhang/), Chinese Academy of Sciences
 
 ## Special Issue
 
