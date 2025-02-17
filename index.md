@@ -115,6 +115,7 @@ Typical but not exclusive topics of interest are:
 - Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
   - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm), Université Évry Paris-Saclay
   - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis), Sorbonne University, France
+  - [Cédric Bentz](https://cedric.cnam.fr/~bentzc/Bentz.php), Conservatoire national des arts et métiers, France
   - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/) (co-chair), Durham University, UK
   - [Li Hao](https://www.lri.fr/~li/English.html), LISN University Paris Saclay, France
   - [Hsiang-Hsuan Liu](https://www.uu.nl/staff/HHLiu/CV), Utrecht University, Netherlands
