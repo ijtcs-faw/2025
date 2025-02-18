@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/db0a2145-d13d-4ae0-a6cc-0d279bc5b8c1)---
+
 id: index
 title: IJTCS-FAW
 sidebar_label: Homepage
