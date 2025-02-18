@@ -1,4 +1,4 @@
-
+---
 id: index
 title: IJTCS-FAW
 sidebar_label: Homepage
