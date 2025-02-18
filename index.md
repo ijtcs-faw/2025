@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/db0a2145-d13d-4ae0-a6cc-0d279bc5b8c1)---
 id: index
 title: IJTCS-FAW
 sidebar_label: Homepage
@@ -113,10 +113,10 @@ Typical but not exclusive topics of interest are:
   - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), City University of Hong Kong, China
   - [Pinyan Lu](http://pinyanlu.com), Shanghai University of Finance and Economics, China
 - Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
-  - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm), Université Évry Paris-Saclay
   - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis), Sorbonne University, France
   - [Cristina Bazgan](https://www.lamsade.dauphine.fr/~bazgan/), University Paris Dauphine, France
   - [Cédric Bentz](https://cedric.cnam.fr/~bentzc/Bentz.php), Conservatoire national des arts et métiers, France
+  - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm), Université Évry Paris-Saclay
   - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/) (co-chair), Durham University, UK
   - [Li Hao](https://www.lri.fr/~li/English.html), LISN University Paris Saclay, France
   - [Ya-Chun Liang](https://researchoutput.ncku.edu.tw/en/persons/ya-chun-liang),  National Cheng Kung University, Taiwan
@@ -136,10 +136,16 @@ Typical but not exclusive topics of interest are:
   - [Yurong Chen](https://ruyc.github.io), Inria Paris, France
   - [Yukun Cheng](http://busi.jiangnan.edu.cn/english/info/1892/10794.htm) (co-chair), Jiangnan University, China
   - [Johanne Cohen](https://www.lri.fr/~jcohen/fr/) (co-chair), University Paris Saclay, France
+  - [Yiding Feng](https://www.ydfeng.us), Hong Kong University of Science and Technology, China
+  - [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), The Hong Kong Polytechnic University, China
   - [Vianney Perchet](https://www.ensae.fr/faculty/670-vianney-perchet) (co-chair), ENSAE Paris, France
+  - [Qi Qi](https://gsai.ruc.edu.cn/english/qiqi), Renmin University of China, China
   - [Warut Suksompong](https://www.comp.nus.edu.sg/~warut/), National University of Singapore, Singapore
+  - [Changjun Wang](https://cjwangw.weebly.com), Academy of Mathematics and Systems Science, Chinese Academy of Sciences, China
   - [Zihe Wang](https://gsai.ruc.edu.cn/english/wangzihe), Renmin University of China, China
   - [Xiaowei Wu](https://sites.google.com/site/wxw0711/), University of Macau, China
+  - [Fang-Yi Yu](https://cs.gmu.edu/~fangyiyu/), George Mason University, USA
+  - [Jie Zhang](https://researchportal.bath.ac.uk/en/persons/jie-zhang), University of Bath, UK
   - [Jinshan Zhang](https://person.zju.edu.cn/en/zhangjinshan), Zhejiang University, China
   - [Dengji Zhao](http://dengji-zhao.net), ShanghaiTech University, China
 - Local Organisation (ijtcs-faw@listes.lip6.fr)
