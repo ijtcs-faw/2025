@@ -117,8 +117,11 @@ Typical but not exclusive topics of interest are:
   - [Cristina Bazgan](https://www.lamsade.dauphine.fr/~bazgan/), University Paris Dauphine, France
   - [Cédric Bentz](https://cedric.cnam.fr/~bentzc/Bentz.php), Conservatoire national des arts et métiers, France
   - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm), Université Évry Paris-Saclay
+  - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr), Sorbonne University, France
   - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/) (co-chair), Durham University, UK
+  - [Qilong Feng](https://faculty.csu.edu.cn/fengqilong/en/index.htm), Central South University, China
   - [Li Hao](https://www.lri.fr/~li/English.html), LISN University Paris Saclay, France
+  - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), City University of Hong Kong, China
   - [Ya-Chun Liang](https://researchoutput.ncku.edu.tw/en/persons/ya-chun-liang),  National Cheng Kung University, Taiwan
   - [Hsiang-Hsuan Liu](https://www.uu.nl/staff/HHLiu/CV), Utrecht University, Netherlands
   - [Kelin Luo](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/luo-kelin.detail.html), University at Buffalo, USA
