@@ -126,6 +126,7 @@ Typical but not exclusive topics of interest are:
   - [Hsiang-Hsuan Liu](https://www.uu.nl/staff/HHLiu/CV), Utrecht University, Netherlands
   - [Kelin Luo](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/luo-kelin.detail.html), University at Buffalo, USA
   - [Pan Peng](http://staff.ustc.edu.cn/~ppeng/), University of Science and Technology of China
+  - [David Saulpic](http://www.normalesup.org/~saulpic/), Université Paris Cité, France
   - [Sylvain Sené](https://pageperso.lis-lab.fr/~sylvain.sene/), Aix-Marseille University, France
   - [Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html) (co-chair), Institute of Computing Technology,  Chinese Academy of Science, China
   - [Ruilong Zhang](https://ruilong-zhang.github.io), Technische Universität München, Germany
