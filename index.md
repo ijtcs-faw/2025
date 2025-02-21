@@ -116,7 +116,7 @@ Typical but not exclusive topics of interest are:
   - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis), Sorbonne University, France
   - [Cristina Bazgan](https://www.lamsade.dauphine.fr/~bazgan/), University Paris Dauphine, France
   - [Cédric Bentz](https://cedric.cnam.fr/~bentzc/Bentz.php), Conservatoire national des arts et métiers, France
-  - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm), Université Évry Paris-Saclay
+  - [Vincent Chau](https://gchauv.github.io), Université Évry Paris-Saclay
   - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr), Sorbonne University, France
   - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/) (co-chair), Durham University, UK
   - [Qilong Feng](https://faculty.csu.edu.cn/fengqilong/en/index.htm), Central South University, China
@@ -154,7 +154,7 @@ Typical but not exclusive topics of interest are:
   - [Dengji Zhao](http://dengji-zhao.net), ShanghaiTech University, China
 - Local Organisation (ijtcs-faw@listes.lip6.fr)
   - [Evripidis Bampis](https://www.lip6.fr/Evripidis.Bampis)
-  - [Vincent Chau](https://cs.seu.edu.cn/vincentchau/main.htm)
+  - [Vincent Chau](https://gchauv.github.io)
   - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr)
 - Advisor Committee
   - [Wen Gao](https://cfcs.pku.edu.cn/english/people/directors/wengao/index.htm), Peking University
