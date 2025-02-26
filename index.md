@@ -107,7 +107,7 @@ Typical but not exclusive topics of interest are:
   - [John E. Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft), Cornell University, USA
   - [Huimin Lin](https://people.ucas.ac.cn/~lhm?language=en), University of Chinese Academy of Sciences, China
 - General Chair
-  - [Li Hao](https://www.lri.fr/~li/English.html), LISN University Paris Saclay, France
+  - [Hao Li](https://www.lri.fr/~li/English.html), LISN University Paris Saclay, France
 - Program Committee Chairs 
   - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr), Sorbonne University, France
   - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), City University of Hong Kong, China
@@ -120,7 +120,7 @@ Typical but not exclusive topics of interest are:
   - [Christoph Dürr](https://www.lip6.fr/Christoph.Durr), Sorbonne University, France
   - [Thomas Erlebach](https://www.durham.ac.uk/staff/thomas-erlebach/) (co-chair), Durham University, UK
   - [Qilong Feng](https://faculty.csu.edu.cn/fengqilong/en/index.htm), Central South University, China
-  - [Li Hao](https://www.lri.fr/~li/English.html), LISN University Paris Saclay, France
+  - [Hao Li](https://www.lri.fr/~li/English.html), LISN University Paris Saclay, France
   - [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), City University of Hong Kong, China
   - [Ya-Chun Liang](https://researchoutput.ncku.edu.tw/en/persons/ya-chun-liang),  National Cheng Kung University, Taiwan
   - [Hsiang-Hsuan Liu](https://www.uu.nl/staff/HHLiu/CV), Utrecht University, Netherlands
