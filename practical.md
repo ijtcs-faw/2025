@@ -39,29 +39,29 @@ Absolute hôtel Paris:
   1 Rue de la Fontaine au Roi, 75011 Paris,
   0147004700
  
-Grand Hôtel des Gobelins 3:star: :
+Grand Hôtel des Gobelins 3  :star:   :
   57 bd Saint Marcel 75013 Paris,
   0143317989
  
-Mercure Paris Place d’Italie  3:star: :
+Mercure Paris Place d’Italie 3  :star:   :
   25 bd Auguste Blanqui 75013 Paris,
   0145808223
  
-Ibis Paris avenue d’Italie 3:star: :
+Ibis Paris avenue d’Italie 3  :star:   :
   15 bis avenue d’Italie 75013 Paris,
   0153796000
  
-Hôtel du Jardin des Plantes 3:star: :
+Hôtel du Jardin des Plantes 3  :star:   :
   5 rue Linné 75005 Paris,
   0147070620
  
-Hôtel du Collège de France  3:star: :
+Hôtel du Collège de France 3  :star:   :
   7 rue Thenard 75005 Paris,
   0143267836
      
 # Restaurants
 
-Sucrépice :panda: :
+Sucrépice :panda_face: :
   specialities from Sichuan,
   5 Rue d'Arras, 75005 Paris,
   0172671174
