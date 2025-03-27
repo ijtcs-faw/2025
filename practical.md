@@ -67,7 +67,7 @@ Sucrépice :panda_face: :
   0172671174
 
 Le Buisson Ardent:
-  heavy french cuisine,
+  traditional french cuisine,
   25 rue Jussieu 75005 Paris,
   0143549302
 
@@ -82,13 +82,13 @@ Pizza Roma Amore Mio:
   0145358395
 
 Le Bouillon Racine:
-  heavy french cuisine,
+  traditional french cuisine,
   3 rue Racine 75006 Paris,
   0144321560
 
 L’Ardoise:
   our local high end cantine,
-  Jussieu, between tours 26 and 25
+  Jussieu, between towers 26 and 25
 
 La table d’Aligre:
   seafood,
