@@ -1,6 +1,6 @@
 # Hotel suggestions
      
-Hôtel Saint Christophe 3:star: :
+Hôtel Saint Christophe 3  :star:   :
    17 rue Lacépède 75005 Paris
  
 Citadines Austerlitz Paris:
@@ -90,7 +90,7 @@ L’Ardoise:
   our local high end cantine,
   Jussieu, between tours 26 and 25
 
-La table d’Aligre:  
-  seafood
+La table d’Aligre:
+  seafood,
   11 Pl. d’Aligre, 75012 Paris,
   01 43 07 84 88
