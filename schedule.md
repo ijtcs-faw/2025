@@ -16,16 +16,17 @@
 | 11:50 | talk A5         |                                      |
 | 12:10 | talk A6         |                                      |
 | 12:30 | lunch break     | on your own                          |
-| 14:00 | talk B1         |                                      |
-| 14:20 | talk B2         |                                      |
-| 14:40 | talk B3         |                                      |
-| 15:00 | break           | coffee                               |
-| 15:30 | talk B4         |                                      |
-| 15:50 | talk B5         |                                      |
-| 16:10 | short break     |                                      |
-| 16:20 | talk B6         |                                      |
-| 16:40 | talk B7         |                                      |
-| 17:00 | end             | of talks of day 1                    |
+| 13:30 | forum 1         |                                      |
+| 14:30 | talk B1         |                                      |
+| 14:50 | talk B2         |                                      |
+| 15:10 | talk B3         |                                      |
+| 15:30 | break           | coffee                               |
+| 16:00 | talk B4         |                                      |
+| 16:20 | talk B5         |                                      |
+| 16:40 | short break     |                                      |
+| 16:50 | talk B6         |                                      |
+| 17:10 | talk B7         |                                      |
+| 17:30 | end             | of talks of day 1                    |
 | 18:30 | light reception | les Cordeliers                       |
 | 20:00 | end             | of day 1                             |
  
@@ -45,16 +46,17 @@
 | 11:50 | talk C5     |                   |
 | 12:10 | talk C6     |                   |
 | 12:30 | lunch break | on your own       |
-| 14:00 | talk D1     |                   |
-| 14:20 | talk D2     |                   |
-| 14:40 | talk D3     |                   |
-| 15:00 | break       | coffee            |
-| 15:30 | talk D4     |                   |
-| 15:50 | talk D5     |                   |
-| 16:10 | short break |                   |
-| 16:20 | talk D6     |                   |
-| 16:40 | talk D7     |                   |
-| 17:00 | end         | of talks of day 2 |
+| 13:30 | forum 2         |                                      |
+| 14:30 | talk D1         |                                      |
+| 14:50 | talk D2         |                                      |
+| 15:10 | talk D3         |                                      |
+| 15:30 | break           | coffee                               |
+| 16:00 | talk D4         |                                      |
+| 16:20 | talk D5         |                                      |
+| 16:40 | short break     |                                      |
+| 16:50 | talk D6         |                                      |
+| 17:10 | talk D7         |                                      |
+| 17:30 | end             | of talks of day 2                    |
 | 18:30 | gala dinner |                   |
 | 20:30 | end         | of day 2          |
  
@@ -73,7 +75,8 @@
 | 11:30 | talk E4     |                       |
 | 12:50 | talk E5     |                       |
 | 12:10 | talk E6     |                       |
-| 12:30 | end         | have a safe trip home |
+| 12:30 | forum 3     |                       |
+| 13:30 | end         | have a safe trip home |
 
 # Locations
 
