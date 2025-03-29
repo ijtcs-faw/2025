@@ -26,7 +26,8 @@
 | 16:40 | short break     |                                      |
 | 16:50 | talk B6         |                                      |
 | 17:10 | talk B7         |                                      |
-| 17:30 | end             | of talks of day 1                    |
+| 17:30 | forum           |                                      |
+| 18:00 | end             | of talks of day 1                    |
 | 18:30 | light reception | les Cordeliers                       |
 | 20:00 | end             | of day 1                             |
  
@@ -61,7 +62,7 @@
 | 20:30 | end         | of day 2          |
  
 
-## Tuesday 2/07
+## Wednesday 2/07
 
 | start | event       | complement            |
 | -----:| ----------- |:--------------------- |
@@ -75,8 +76,12 @@
 | 11:30 | talk E4     |                       |
 | 12:50 | talk E5     |                       |
 | 12:10 | talk E6     |                       |
-| 12:30 | forum 3     |                       |
-| 13:30 | end         | have a safe trip home |
+| 12:30 | lunch break | on your own       |
+| 13:30 | forum 3     |                       |
+| 14:30 | forum 4     |                       |
+| 15:30 | break       |  coffee                     |
+| 16:00 | forum 5     |                       |
+| 17:30 | end         | have a safe trip home |
 
 # Locations
 
