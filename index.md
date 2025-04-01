@@ -181,8 +181,12 @@ After the conference, selected papers will be invited to special issues in: Theo
 |           | Monday 30/6       | Tuesday 1/7 | Wednesday 2/7| 
 | --------- |:----------------- | ----------- | ------------ | 
 | Morning   | conference        | conference  | conference   | 
-| Afternoon | conference        | conference  |              | 
+| Afternoon | conference        | conference  | forum        | 
 | Evening   | light reception   | Banquet     |              | 
+
+## Registration
+
+Will be available during the first week of April.
 
 ## Keynotes
 
