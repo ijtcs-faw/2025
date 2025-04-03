@@ -225,7 +225,7 @@ We would like to thank the following organizations for supporting the conference
 
 ![](gdr-rod.png)
 
-![](LOGO_LIP6.png) ![](LOGO_CNRS.png) ![](LOGO_SU.png)
+![](LOGO_LIP6.png =x150) ![](LOGO_SU.png =150x)
 
 ## Supporting Organization
 
