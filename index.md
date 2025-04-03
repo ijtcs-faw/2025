@@ -176,13 +176,10 @@ After the conference, selected papers will be invited to special issues in: Theo
 ![](images/tocs.jpg)
 ![](images/blockchain.jpg)
 
-## Schedule
+## Practical informations
 
-|           | Monday 30/6       | Tuesday 1/7 | Wednesday 2/7| 
-| --------- |:----------------- | ----------- | ------------ | 
-| Morning   | conference        | conference  | conference   | 
-| Afternoon | conference        | conference  | forum        | 
-| Evening   | light reception   | Banquet     |              | 
+- [schedule](schedule)
+- [hotel and restaurants](practical)
 
 ## Registration
 
