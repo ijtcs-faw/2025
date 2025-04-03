@@ -225,6 +225,8 @@ We would like to thank the following organizations for supporting the conference
 
 ![](gdr-rod.png)
 
+![](LOGO_LIP6.png) ![](LOGO_CNRS.png) ![](LOGO_SU.png)
+
 ## Supporting Organization
 
 ![](images/csiam.jpg)
