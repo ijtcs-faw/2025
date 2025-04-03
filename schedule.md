@@ -1,4 +1,11 @@
-# Tentative schedule
+# Tentative schedule  
+
+|           | Monday 30/6       | Tuesday 1/7 | Wednesday 2/7| 
+| --------- |:----------------- | ----------- | ------------ | 
+| Morning   | conference        | conference  | conference   | 
+| Afternoon | conference        | conference  | forum        | 
+| Evening   | light reception   | Banquet     |              | 
+
 
 ## Monday 30/06
 
