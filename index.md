@@ -183,7 +183,15 @@ After the conference, selected papers will be invited to special issues in: Theo
 
 ## Registration
 
-Will be available during the first week of April.
+Will be available during April. We are experiencing some delay in installing a payment system, and apologize. Therefore the deadline for early registration will be announced once the payment system is running.
+
+| category                            | early | late  |
+| ----------------------------------- | ----- | ----- |
+| normal                              | 420 € | 500 € |
+| member of China Computer Federation | 336 € | 400 € |
+| member of Sorbonne University       | 336 € | 400 € |
+| student                             | 350 € | 420 € |
+| student member of CCF               | 280 € | 336 € | 
 
 ## Keynotes
 
