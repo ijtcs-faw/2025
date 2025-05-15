@@ -183,7 +183,9 @@ After the conference, selected papers will be invited to special issues in: Theo
 
 ## Registration
 
-Will be available during April. We are experiencing some delay in installing a payment system, and apologize. Therefore the deadline for early registration will be announced once the payment system is running.
+Registration opened May 15. Register [here](https://framaforms.org/registration-for-ijtcs-faw-1747296497).
+
+We are experiencing some delay in installing a payment system, and apologize. Therefore the deadline for early registration will be announced once the payment system is running.
 
 | category                            | early | late  |
 | ----------------------------------- | ----- | ----- |
