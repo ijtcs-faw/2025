@@ -186,17 +186,17 @@ After the conference, selected papers will be invited to special issues in: Theo
 
 ## Registration
 
-Registration opened May 15. Register [here](https://framaforms.org/registration-for-ijtcs-faw-1747296497).
 
-We are experiencing some delay in installing a payment system, and apologize. Therefore the deadline for early registration will be announced once the payment system is running.
+Informal registration opened May 15. 
+Formal registration opened June 3rd. Register [here](https://ijtcs-faw-2025.sciencesconf.org/registration), even if you registered informally before.
 
-| category                            | early | late  |
-| ----------------------------------- | ----- | ----- |
-| normal                              | 420 € | 500 € |
-| member of China Computer Federation | 336 € | 400 € |
-| member of Sorbonne University       | 336 € | 400 € |
-| student                             | 350 € | 420 € |
-| student member of CCF               | 280 € | 336 € | 
+| category                            | including taxes | 
+| ----------------------------------- | ----- | 
+| normal                              | 420 € | 
+| member of China Computer Federation | 336 € | 
+| member of Sorbonne University       | 336 € | 
+| student                             | 350 € | 
+| student member of CCF               | 280 € |  
 
 ## Keynotes
 
