@@ -77,10 +77,10 @@
  | event  | complement  |                                                                                                    |                                                                                    |
  | ------ | ----------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
  | 8:30   | coffee      |                                                                                                    |                                                                                    |
- | 9:00   | keynote 3   | Gabrielle Demange : On stability in simple cooperative games                                       |                                                                                    |
+ | 9:00   | keynote 3   | Gabrielle Demange                                                                                  |   On stability in simple cooperative games                                         |
  | 9:50   | short break |                                                                                                    |                                                                                    |
  | 10:00  | talk E1     | Lusheng Wang                                                                                       | Finding a Set of Long Common Substrings with Repeats from m Input Strings          |
- | 10:20  | talk E2     | Duncan Adamson, Pamela Fleischmann, _Annika Huch_, Tore Koß and Florin Manea                         | $k$-Universality of Regular Languages Revisited                                    |
+ | 10:20  | talk E2     | Duncan Adamson, Pamela Fleischmann, _Annika Huch_, Tore Koß and Florin Manea                         | $k$-Universality of Regular Languages Revisited                                  |
  | 10:40  | break       | coffee                                                                                             |                                                                                    |
  | 11:10  | talk E3     | Yunxuan Ma, Yide Bian, Hao Xu, Weitao Yang, Jingshu Zhao, Zhijian Duan, Feng Wang and Xiaotie Deng | Large-Scale Contextual Market Equilibrium Computation through Deep Learning        |
  | 11:30  | talk E4     | Hongtao Liu, Weiran Shen and Yiheng Shen                                                           | Optimal Hiring Strategy in Auction-Based Crowdsourcing Systems                     |
