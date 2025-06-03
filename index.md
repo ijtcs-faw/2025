@@ -12,6 +12,12 @@ sidebar_label: Homepage
 ©️ photo by [Fred Romero](https://www.flickr.com/people/129231073@N06/)
 
 
+## Practical informations
+
+- [schedule](schedule)
+- [hotel and restaurants](practical)
+
+
 ## Overview
 
 International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW 2025) will be held on Monday June 30 to Wednesday July 2, 2025, hosted by Sorbonne University, Paris, France. We aim to provide a platform for advancing theoretical computer science and promoting the exchange of knowledge and ideas. It is the 6th IJTCS and 19th FAW. 
@@ -176,10 +182,7 @@ After the conference, selected papers will be invited to special issues in: Theo
 ![](images/tocs.jpg)
 ![](images/blockchain.jpg)
 
-## Practical informations
 
-- [schedule](schedule)
-- [hotel and restaurants](practical)
 
 ## Registration
 
