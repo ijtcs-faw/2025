@@ -56,9 +56,10 @@
 | 11:50  | talk C5     | Kelin Luo, Chenran Yang, Zonghan Yang and Yuhao Zhang                   | The Subinterval Cover Problem                                                                                              |
 | 12:10  | talk C6     | Zifan Gong, Alexander Lam, Momcilo Mrkaic, Yachao Yan and Yingchao Zhao | The Capacity-Constrained Facility Location Problem with Ordinal Preferences: Algorithmic and Mechanism Design Perspectives |
 | 12:30  | lunch break | on your own                                                             |                                                                                                                            |
-| 13:30  | forum 2     |                                                                         |                                                                                                                            |
-| 14:00  |             |                                                                         |                                                                                                                            |
-| 14:30  |             |                                                                         |                                                                                                                            |
+| 13:30  | forum 2     | Multi-agent Learning, Multi-agent System, Multi-agent Games                                        |                                                                                                                            |
+|        |             | Mengyue Yang    |     |
+|        |             |                                                                         |                                                                                                                            |
+|        |             |                                                                         |                                                                                                                            |
 | 14:50  | talk D1     | Yitian Gao, Jiaxue Li, Junjie Luo and Yiheng Zhang                      | Minimizing Blocking Agents for Stable Matching with Partial Information                                                    |
 | 15:10  | talk D2     | Rufan Bai, Huahua Miao, Xiaowei Wu, Cong Zhang and Shengwei Zhou        | Pure Nash Equilibria of Weighted Picking Sequence Protocol is WEF1 for Two Strategic Agents                                |
 | 15:30  | break       | coffee                                                                  |                                                                                                                            |
@@ -90,6 +91,8 @@
  | 14:30  | forum 4     |                                                                                                    |                                                                                    |
  | 15:30  | break       | coffee                                                                                             |                                                                                    |
  | 16:00  | forum 5     | Young Researcher Forum                                                                             |                                                                                    |
+ |        |             |  Xinkai Shu   |  | 
+ |        |             |  Jiaheng Wang |  | 
  | 17:30  | end         | have a safe trip home                                                                              |                                                                                    |
 
 # Locations
