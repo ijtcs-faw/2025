@@ -79,7 +79,7 @@
  | 8:30   | coffee      |                                                                                                    |                                                                                    |
  | 9:00   | keynote 3   | _Gabrielle Demange_                                                                                  |   On stability in simple cooperative games                                         |
  | 9:50   | short break |                                                                                                    |                                                                                    |
- | 10:00  | talk E1     | Lusheng Wang                                                                                       | Finding a Set of Long Common Substrings with Repeats from m Input Strings          |
+ | 10:00  | talk E1     | Tiantian Li, Lusheng Wang, and Daming Zhu                                                                                       | Finding a Set of Long Common Substrings with Repeats from m Input Strings          |
  | 10:20  | talk E2     | Duncan Adamson, Pamela Fleischmann, _Annika Huch_, Tore Koß and Florin Manea                         | $k$-Universality of Regular Languages Revisited                                  |
  | 10:40  | break       | coffee                                                                                             |                                                                                    |
  | 11:10  | talk E3     | _Yunxuan Ma_, Yide Bian, Hao Xu, Weitao Yang, Jingshu Zhao, Zhijian Duan, Feng Wang and _Xiaotie Deng_ | Large-Scale Contextual Market Equilibrium Computation through Deep Learning        |
