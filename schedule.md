@@ -56,10 +56,9 @@
 | 11:50  | talk C5     | Kelin Luo, _Chenran Yang_, Zonghan Yang and Yuhao Zhang                   | The Subinterval Cover Problem                                                                                              |
 | 12:10  | talk C6     | Zifan Gong, Alexander Lam, Momcilo Mrkaic, Yachao Yan and _Yingchao Zhao_ | The Capacity-Constrained Facility Location Problem with Ordinal Preferences: Algorithmic and Mechanism Design Perspectives |
 | 12:30  | lunch break | on your own                                                             |                                                                                                                            |
-| 13:30  | forum 2     | Multi-agent Learning, Multi-agent System, Multi-agent Games                                        |                                                                                                                            |
+| 14:00  | forum 2     | Multi-agent Learning, Multi-agent System, Multi-agent Games                                        |                                                                                                                            |
 |        |             | Mengyue Yang    |     |
-|        |             |                                                                         |                                                                                                                            |
-|        |             |                                                                         |                                                                                                                            |
+| 14:30       |   break    |                                                                         |                                                                                                                            |
 | 14:50  | talk D1     | Yitian Gao, Jiaxue Li, _Junjie Luo_ and Yiheng Zhang                      | Minimizing Blocking Agents for Stable Matching with Partial Information                                                    |
 | 15:10  | talk D2     | Rufan Bai, Huahua Miao, Xiaowei Wu, Cong Zhang and Shengwei Zhou        | Pure Nash Equilibria of Weighted Picking Sequence Protocol is WEF1 for Two Strategic Agents                                |
 | 15:30  | break       | coffee                                                                  |                                                                                                                            |
@@ -87,13 +86,11 @@
  | 11:50  | talk E5     | Jingyi Liu, Jianxin Wang, Qilong Feng and Feng Shi                                                 | Exact Algorithms for the Maximum $k$-Balanced Weighted Biclique Problem            |
  | 12:10  | talk E6     | Faisal Abu-Khzam and _Lucas Isenmann_                                                                | Domination in Diameter-Two Graphs and the 2-Club Cluster Vertex Deletion Parameter |
  | 12:30  | lunch break | on your own                                                                                        |                                                                                    |
- | 13:30  | forum 3     |                                                                                                    |                                                                                    |
- | 14:30  | forum 4     |                                                                                                    |                                                                                    |
- | 15:30  | break       | coffee                                                                                             |                                                                                    |
- | 16:00  | forum 5     | Young Researcher Forum                                                                             |                                                                                    |
- |        |             |  _Xinkai Shu_   |  | 
- |        |             |  Jiaheng Wang |  | 
- | 17:30  | end         | have a safe trip home                                                                              |                                                                                    |
+ | 14:00  | forum 3     | Young Researcher Forum                                                                             |                                                                                    |
+ |        |             |  _Xinkai Shu_  |  | 
+ |        |             |  Jiaheng Wang  |  | 
+ | 15:30  | break       | coffee                                                                                             |                                           
+ | 16:00  | end         | have a safe trip home                                                                              |                                                                                    |
 
 # Locations
 
