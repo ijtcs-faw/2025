@@ -15,19 +15,19 @@ __9:00 Opening, greetings and practical informations__
 <details>
 <summary><b>9:05 Keynote 1:</b> Xiaoming Sun. Some mathematical problems in quantum circuit synthesis and optimization</summary>
 Abstract TBA
-</details>
+</details><br> 
 
 9:55 Short break
 
 <details>
 <summary><b>10:05 talk A1.</b> Yusen Zheng, Yukun Cheng, Chenyang Xu and Xiaotie Deng. Mechanism Design for Auctions with Externalities on Budgets</summary>
 Abstract TBA
-</details>
+</details><br> 
 
 <details>
 <summary><b>10:25 talk A2.</b> Jing Chen and Wentao Zhou. Less-excludable Mechanism for DAOs in Public Good Auctions</summary>
 Abstract TBA
-</details>                                                     
+</details> <br> 
 
 10:45  break            coffee
 11:10  talk A3          _Wu Xin_, Hongyin Chen, Xiaoqi Dong, Jichen Li, _Xiaotie Deng_, Zhonghai Wu and Bin Xiao  TBDS: Transaction-Based Data
