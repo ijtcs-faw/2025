@@ -1,19 +1,19 @@
 # Tentative schedule  
 
-            Monday 30/6        Tuesday 1/7  Wednesday 2/7 
- --------- :-----------------  -----------  ------------  
- Morning    conference         conference   conference    
- Afternoon  conference         conference   forum         
- Evening    light reception    Banquet                    
-
+|           | Monday 30/6       | Tuesday 1/7 | Wednesday 2/7| 
+| --------- |:----------------- | ----------- | ------------ | 
+| Morning   | conference        | conference  | conference   | 
+| Afternoon | conference        | conference  | forum        | 
+| Evening   | light reception   | Banquet     |              | 
 
 ## Monday 30/06
 
 __8:30 checkin and coffee__
+
 __9:00 Opening, greetings and practical informations__
-__9:05 Keynote 1 Xiaoming Sun: Some mathematical problems in quantum circuit synthesis and optimization__
+
 <details>
-<summary>Abstract</summary>
+<summary>__9:05 Keynote 1 Xiaoming Sun: Some mathematical problems in quantum circuit synthesis and optimization__</summary>
 Abstract
 </details>
 
