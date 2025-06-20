@@ -9,13 +9,11 @@
 
 ## Monday 30/06
 
-8:30 checkin and coffee  
-
-9:00 Opening, greetings and practical informations 
-
-9:05 Keynote 1
+__8:30 checkin and coffee__
+__9:00 Opening, greetings and practical informations__
+__9:05 Keynote 1 Xiaoming Sun: Some mathematical problems in quantum circuit synthesis and optimization__
 <details>
-<summary>Xiaoming Sun: Some mathematical problems in quantum circuit synthesis and optimization </summary>
+<summary>Abstract</summary>
 Abstract
 </details>
 
