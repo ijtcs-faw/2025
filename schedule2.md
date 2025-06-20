@@ -13,16 +13,15 @@ __8:30 checkin and coffee__
 __9:00 Opening, greetings and practical informations__
 
 <details>
-<summary>__9:05 Keynote 1 Xiaoming Sun: Some mathematical problems in quantum circuit synthesis and optimization__</summary>
-Abstract
+<summary><b>9:05 Keynote 1: Xiaoming Sun. Some mathematical problems in quantum circuit synthesis and optimization</b></summary>
+Abstract TBA
 </details>
 
 9:55 Short break
 
-10:05 talk A1. _Yusen Zheng_, _Yukun Cheng_, Chenyang Xu and _Xiaotie Deng_. Mechanism Design for Auctions with Externalities on Budgets
 <details>
-<summary>abstract</summary>
-Abstract
+<summary><b>10:05 talk A1. _Yusen Zheng_, _Yukun Cheng_, Chenyang Xu and _Xiaotie Deng_. Mechanism Design for Auctions with Externalities on Budgets</b></summary>
+Abstract TBA
 </details>
                                 
 
