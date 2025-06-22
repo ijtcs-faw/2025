@@ -1,5 +1,10 @@
 
-## Talk 1: Can You Link Up With Treewidth?
+## Talk 1: Breaking the Sorting Barrier for Directed Single-Source Shortest Paths
+We give a deterministic O(m log^{2/3} n)-time algorithm for single-source shortest paths (SSSP) on directed graphs with real non-negative edge weights in comparison-addition model. This is the first result to break the O(m + n log n) time bound of Dijkstra algorithm on sparse graphs, showing that Dijkstra's algorithm is not optimal for SSSP.
+
+Biography: Xinkai Shu is a postdoctoral researcher at Max Planck Institute for Informatics. He obtained his PhD in Computer Science at The University of Hong Kong, supervised by Prof. Zhiyi Huang. Before that he obtained his bachelor's degree from Yao Class, Tsinghua University. His research interest is online algorithms, algorithmic game theory and fundamental graph algorithms.
+
+## Talk 2: Can You Link Up With Treewidth?
 
 In a fundamental paper in parameterized complexity theory, Marx constructed k-vertex graphs H of maximum degree 3 such that n^o(k/log k) time algorithms for detecting colorful H-subgraphs would refute the Exponential-Time Hypothesis (ETH). This result is widely used to obtain almost-tight conditional lower bounds for parameterized problems under ETH.
 
@@ -14,11 +19,6 @@ Biography: Jiaheng Wang is currently a postdoctoral researcher at the University
 
 His research interest lies in multiple topics in theoretical computer science, with a focus on algorithms and complexity for counting problems. 
 
-
-## Talk 2: Breaking the Sorting Barrier for Directed Single-Source Shortest Paths
-We give a deterministic O(m log^{2/3} n)-time algorithm for single-source shortest paths (SSSP) on directed graphs with real non-negative edge weights in comparison-addition model. This is the first result to break the O(m + n log n) time bound of Dijkstra algorithm on sparse graphs, showing that Dijkstra's algorithm is not optimal for SSSP.
-
-Biography: Xinkai Shu is a postdoctoral researcher at Max Planck Institute for Informatics. He obtained his PhD in Computer Science at The University of Hong Kong, supervised by Prof. Zhiyi Huang. Before that he obtained his bachelor's degree from Yao Class, Tsinghua University. His research interest is online algorithms, algorithmic game theory and fundamental graph algorithms.
 
 
 ## Talk 3: TBA
