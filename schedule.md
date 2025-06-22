@@ -86,9 +86,10 @@
  | 11:50  | talk E5     | Jingyi Liu, Jianxin Wang, Qilong Feng and Feng Shi                                                 | Exact Algorithms for the Maximum $k$-Balanced Weighted Biclique Problem            |
  | 12:10  | talk E6     | Faisal Abu-Khzam and _Lucas Isenmann_                                                                | Domination in Diameter-Two Graphs and the 2-Club Cluster Vertex Deletion Parameter |
  | 12:30  | lunch break | on your own                                                                                        |                                                                                    |
- | 14:00  | forum 3     | Young Researcher Forum                                                                             |                                                                                    |
- |        |             |  _Xinkai Shu_  |  | 
- |        |             |  Jiaheng Wang  |  | 
+ | 14:00  | [forum 3](talks/forum3)      | Young Researcher Forum                                                                             |                                                                                    |
+ |        |             |  _Xinkai Shu_  | Breaking the Sorting Barrier for Directed Single-Source Shortest Paths  | 
+ |        |             |  Jiaheng Wang  |  Can You Link Up With Treewidth? | 
+ |        |             |  Junyao Zhao   |  | 
  | 15:30  | break       | coffee                                                                                             |                                           
  | 16:00  | end         | have a safe trip home                                                                              |                                                                                    |
 
