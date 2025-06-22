@@ -17,7 +17,9 @@ __9:00 Opening, greetings and practical informations__
 Abstract TBA
 </details><br> 
 
-9:55 Short break
+<details>
+<summary><b>9:55 Short break</b></summary>
+</details><br> 
 
 <details>
 <summary><b>10:05 talk A1.</b> Yusen Zheng, Yukun Cheng, Chenyang Xu and Xiaotie Deng. Mechanism Design for Auctions with Externalities on Budgets</summary>
@@ -29,7 +31,11 @@ Abstract TBA
 Abstract TBA
 </details> <br> 
 
-10:45  break            coffee
+<details>
+<summary><b>10:45 Coffee break</b></summary>
+</details><br> 
+
+
 11:10  talk A3          _Wu Xin_, Hongyin Chen, Xiaoqi Dong, Jichen Li, _Xiaotie Deng_, Zhonghai Wu and Bin Xiao  TBDS: Transaction-Based Data
 11:30  talk A4          _Felipe Furquim_, _Valentin Dardilhac_, Daniel Cordeiro and _Johanne Cohen_               Characterizing Strategyproofness Through Score Functions in Voting Mechanisms                                              
 11:50  talk A5          _Zhengyan Deng_, _Yusen Zheng_, Chenliang Sheng and Shaowen Qin                           Optimal Repurchasing  Contract Design for Efficient Utilization of Computing Resources                                     
