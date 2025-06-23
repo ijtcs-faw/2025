@@ -110,12 +110,11 @@ Abstract TBA
 </tr>
 
 <tr>
-<td>13:30</td>
+<td></td>
  <td>
 <details>
 <summary><b>Forum 1-1.</b> Penghui Yao. On the Computational Power of QAC0 with Barely Superlinear Ancillae </summary>
-$\mathrm{QAC}^0$ is the family of constant-depth polynomial-size quantum circuits consisting of arbitrary single qubit unitaries and multi-qubit Toffoli gates. It was introduced by Moore [arXiv: 9903046] as a quantum counterpart of $\mathrm{AC}^0$, along with the conjecture that $\mathrm{QAC}^0$ circuits can not compute PARITY. In this work we make progress on this longstanding conjecture: we show that any depth-$d$ $\mathrm{QAC}^0$ circuit requires $n^{1+3^{-d}}$ ancillae to compute a function with approximate degree $\Theta(n)$, which includes PARITY, MAJORITY and $\mathrm{MOD}_k$. This is the first superlinear lower bound on the size of the ancillae required for computing parity. We further establish superlinear lower bounds on quantum state synthesis and quantum channel synthesis. These lower bounds are derived by giving low-degree approximations to $\mathrm{QAC}^0$ circuits. We show that a depth-$d$ $\mathrm{QAC}^0$ circuit with $a$ ancillae, when applied to low-degree operators, has a degree $(n+a)^{1-3^{-d}}$ polynomial approximation in the spectral norm. This implies that the class $\mathrm{QLC}^0$, corresponding to linear size $\mathrm{QAC}^0$ circuits, has approximate degree $o(n)$. This is a quantum generalization of the result that $\mathrm{LC}^0$ circuits have approximate degree $o(n)$ by Bun, Kothari, and Thaler [SODA 2019]. Our result also implies that $\mathrm{QLC}^0\neq\mathrm{NC}^1$.
-
+$\mathrm{QAC}^0$ is the family of constant-depth polynomial-size quantum circuits consisting of arbitrary single qubit unitaries and multi-qubit Toffoli gates. It was introduced by Moore [arXiv: 9903046] as a quantum counterpart of $\mathrm{AC}^0$, along with the conjecture that $\mathrm{QAC}^0$ circuits can not compute PARITY. In this work we make progress on this longstanding conjecture: we show that any depth-$d$ $\mathrm{QAC}^0$ circuit requires $n^{1+3^{-d}}$ ancillae to compute a function with approximate degree $\Theta(n)$, which includes PARITY, MAJORITY and $\mathrm{MOD}_k$. This is the first superlinear lower bound on the size of the ancillae required for computing parity. We further establish superlinear lower bounds on quantum state synthesis and quantum channel synthesis. These lower bounds are derived by giving low-degree approximations to $\mathrm{QAC}^0$ circuits. We show that a depth-$d$ $\mathrm{QAC}^0$ circuit with $a$ ancillae, when applied to low-degree operators, has a degree $(n+a)^{1-3^{-d}}$ polynomial approximation in the spectral norm. This implies that the class $\mathrm{QLC}^0$, corresponding to linear size $\mathrm{QAC}^0$ circuits, has approximate degree $o(n)$. This is a quantum generalization of the result that $\mathrm{LC}^0$ circuits have approximate degree $o(n)$ by Bun, Kothari, and Thaler [SODA 2019]. Our result also implies that $\mathrm{QLC}^0\neq\mathrm{NC}^1$.<br><br>
 
 Biography: Penghui Yao is a professor in the Department of Computer Science and Technology, Nanjing University. He obtained his doctoral degree from Centre for Quantum Technology, National University of Singapore. Prior to joining Nanjing University, He was a postdoctoral researcher at CWI Netherlands;  IQC University of Waterloo and QuICS University of Maryland. His research mainly focuses on quantum algorithms, quantum information theory and quantum computational complexity.
 </details>
@@ -123,7 +122,7 @@ Biography: Penghui Yao is a professor in the Department of Computer Science and 
 </tr>
 
 <tr>
-<td>14:00</td>
+<td></td>
  <td>
 <details>
 <summary><b>Forum 1-2.</b> Bujiao Wu. State Similarity in Modular Superconducting Quantum Processors with Classical Communications</summary>
@@ -138,12 +137,11 @@ Biography: Bujiao Wu, an associate researcher at the International Quantum Acade
 </tr>
 
 <tr>
-<td>14:30</td>
+<td></td>
  <td>
 <details>
 <summary><b>Forum 1-3.</b> Yiming Huang. Learning unitary process with autoregressive neural network</summary>
-Characterizing quantum processes is a cornerstone of quantum information science, but conventional techniques like quantum process tomography (QPT) demand extensive resources and suffer from poor scalability. Here, we propose a learning-based approach that leverages the generative model to efficiently learn Hamiltonian dynamics. By decomposing such dynamics into a linear combination of Pauli operators, with the expansion coefficients parameterized by an autoregressive neural network (ARNN), we design an infidelity loss and then train the ARNN to learn such unitary process. Our numerical experiments demonstrate that our proposed model offers a scalable and flexible pathway for characterizing quantum operations with potential applications in quantum computing and quantum information processing.
-
+Characterizing quantum processes is a cornerstone of quantum information science, but conventional techniques like quantum process tomography (QPT) demand extensive resources and suffer from poor scalability. Here, we propose a learning-based approach that leverages the generative model to efficiently learn Hamiltonian dynamics. By decomposing such dynamics into a linear combination of Pauli operators, with the expansion coefficients parameterized by an autoregressive neural network (ARNN), we design an infidelity loss and then train the ARNN to learn such unitary process. Our numerical experiments demonstrate that our proposed model offers a scalable and flexible pathway for characterizing quantum operations with potential applications in quantum computing and quantum information processing.<br><br>
 Biography: Yiming Huang, a postdoctoral fellow at the Center on Frontiers of Computing Studies, Peking University, mainly focus on quantum algorithm and optimization for NISQ devices, and leveraging machine learning to tackle problems in quantum chemistry and many-body physics. His work aims to advance the application of quantum computing and machine learning in complex optimization and data processing.
 </details>
  </td>
@@ -260,7 +258,7 @@ Located in Sorbonne University, Campus les Cordeliers, 15 rue de l'École-de-mé
 <td>09:00</td>
 <td>
 <details><summary><b>Keynote 2:</b> Shanghua Teng. Regularization, Heuristics, and Strategy: A Long Journey Towards Understanding a Few Fundamental yet Fuzzy Concepts in Computing</summary>
-Abstract: "Thinking outside the box" has long been a defining trait of theoretical computer science. As a field, we value elegant theories, enlightening proofs, and insightful — sometimes unexpected — connections. However, we also look beyond theory to the practical world, seeking inspiration, establishing links, and explaining empirical trends. We aim for models that capture the essence of fundamental tasks, and for theories that shed insight on basic phenomena in computing.
+"Thinking outside the box" has long been a defining trait of theoretical computer science. As a field, we value elegant theories, enlightening proofs, and insightful — sometimes unexpected — connections. However, we also look beyond theory to the practical world, seeking inspiration, establishing links, and explaining empirical trends. We aim for models that capture the essence of fundamental tasks, and for theories that shed insight on basic phenomena in computing.
 
 In this talk, I will highlight how a long journey towards understanding a few fundamental, yet fuzzy, concepts in computing—specifically, “heuristics” (in algorithm design and AI), “regularization” (in machine learning), and “strategies” (in game and combinatorial game theory)—has led to the development of new conceptual frameworks, algorithmic techniques, and mathematical theories.
 
@@ -507,8 +505,8 @@ Abstract TBA</details>
 <td> </td>
 <td>
 <details><summary> Xinkai Shu. Breaking the Sorting Barrier for Directed Single-Source Shortest Paths </summary>
-We give a deterministic $O(m \log^{2/3} n)$-time algorithm for single-source shortest paths (SSSP) on directed graphs with real non-negative edge weights in comparison-addition model. This is the first result to break the $O(m + n \log n)$ time bound of Dijkstra algorithm on sparse graphs, showing that Dijkstra's algorithm is not optimal for SSSP.
-
+We give a deterministic $O(m \log^{2/3} n)$-time algorithm for single-source shortest paths (SSSP) on directed graphs with real non-negative edge weights in comparison-addition model. This is the first result to break the $O(m + n \log n)$ time bound of Dijkstra algorithm on sparse graphs, showing that Dijkstra's algorithm is not optimal for SSSP.<br><br>
+ 
 Biography: Xinkai Shu is a postdoctoral researcher at Max Planck Institute for Informatics. He obtained his PhD in Computer Science at The University of Hong Kong, supervised by Prof. Zhiyi Huang. Before that he obtained his bachelor's degree from Yao Class, Tsinghua University. His research interest is online algorithms, algorithmic game theory and fundamental graph algorithms.
 </details>
 </td>
@@ -524,7 +522,7 @@ We give a new, fully self-contained and elementary proof of this result avoiding
 Our technique only requires elementary divide-and-conquer arguments that feature in first-year undergraduate introduction courses to discrete mathematics and computer science.
 
 This paper has appeared at STACS'25. Joint work with Radu Curticapean (Regensburg, ITU Copenhagen), Simon Döring (Saarland, MPI) and Daniel Neuen (MPI). 
-
+<br><br>
 Biography: Jiaheng Wang is currently a postdoctoral researcher at the University of Regensburg. He worked as a postdoctoral research associate at the University of Edinburgh from 2023 to 2024. Prior to this, he obtained his PhD degree in 2023 from the University of Edinburgh, supervised by Dr. Heng Guo. Even earlier, he obtained his BSc degree (summa cum laude) in 2020 from Peking University as a member of the Turing Class. His research interest lies in multiple topics in theoretical computer science, with a focus on algorithms and complexity for counting problems. 
 </details>
 </td>
