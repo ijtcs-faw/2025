@@ -251,54 +251,307 @@ Located in Sorbonne University, Campus les Cordeliers, 15 rue de l'École-de-mé
 
 ## Tuesday 1/07
 
- start   event        complement                                                                                                                                                                                          
- ------  -----------  -----------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------------------------- 
- 8:30    coffee                                                                                                                                                                                                           
- 9:00    [keynote 2](talks/keynote2)    _Shanghua Teng_                                                            Regularization, Heuristics, and Strategy: A Long Journey Towards Understanding a Few Fundamental yet Fuzzy Concepts in Computing    
- 9:50    short break                                                                                                                                                                                                      
- 10:00   talk C1      Xujin Chen, _Xiyuan Deng_, Xiaodong Hu and _Changjun Wang_                   Mixed Graph Covering with Target Constraints                                                                               
- 10:20   talk C2      *Sangram Jena* and K. Subramani                                          From MAXCUT to MAXNAESAT: Elegant Proofs and Algorithmic Advances                                                          
- 10:40   break        coffee                                                                                                                                                                                              
- 11:10   talk C3      _Shuilian Liu_, Yicheng Xu and Yong Zhang                                  Approximation Algorithms for Individual Preference Facility Location                                                       
- 11:30   talk C4      Hanyin Xiao, Jiaming Zhang, Zhikang Zhang and Weidong Li                 A LP-rounding based algorithm for soft capacitated facility location problem with submodular penalties                     
- 11:50   talk C5      Kelin Luo, _Chenran Yang_, Zonghan Yang and Yuhao Zhang                    The Subinterval Cover Problem                                                                                              
- 12:10   talk C6      Zifan Gong, Alexander Lam, Momcilo Mrkaic, Yachao Yan and _Yingchao Zhao_  The Capacity-Constrained Facility Location Problem with Ordinal Preferences: Algorithmic and Mechanism Design Perspectives 
- 12:30   lunch break  on your own                                                                                                                                                                                         
- 14:00   forum 2      Multi-agent Learning, Multi-agent System, Multi-agent Games                                                                                                                                                                    
-                      Mengyue Yang         
- 14:30          break                                                                                                                                                                                                         
- 14:50   talk D1      Yitian Gao, Jiaxue Li, _Junjie Luo_ and Yiheng Zhang                       Minimizing Blocking Agents for Stable Matching with Partial Information                                                    
- 15:10   talk D2      Rufan Bai, Huahua Miao, Xiaowei Wu, Cong Zhang and Shengwei Zhou         Pure Nash Equilibria of Weighted Picking Sequence Protocol is WEF1 for Two Strategic Agents                                
- 15:30   break        coffee                                                                                                                                                                                              
- 16:00   talk D3      _Junyue Zhang_ and _Yifen Mu_                                                A Payoff-Based Policy Gradient Method in Stochastic Games with Long-Run Average Payoffs                                    
- 16:20   talk D4      _Xinxiang Guo_ and _Yifen Mu_                                                Regularized Minimax-V Learning for Solving Randomly Terminating Two-player Zero-sum Markov Games                           
- 16:40   short break                                                                                                                                                                                                      
- 16:50   talk D5      _Bo Li_, Ankang Sun and Md.Habibur Rahman Sifat                            Improved Approximation of Maximin Share Fair Allocation under Generalized Assignment Constraint                            
- 17:10   talk D6      _Ying Qin_, Zeyu Ren, Zihe Wang and Jie Zhang                              Fair Value Distribution in Cooperative Committee Election                                                                  
- 17:30   end          of talks of day 2                                                                                                                                                                                   
- 18:30   gala dinner                                                                                                                                                                                                      
- 20:30   end          of day 2                                                                                                                                                                                            
+<table>
+<tr>
+ <td>8:30</td>
+ <td><b>checkin and coffee</b></td>
+</tr>
+<tr>
+<td>09:00</td>
+<td>
+<details><summary><b>Keynote 2:</b> Shanghua Teng. Regularization, Heuristics, and Strategy: A Long Journey Towards Understanding a Few Fundamental yet Fuzzy Concepts in Computing</summary>
+Abstract: "Thinking outside the box" has long been a defining trait of theoretical computer science. As a field, we value elegant theories, enlightening proofs, and insightful — sometimes unexpected — connections. However, we also look beyond theory to the practical world, seeking inspiration, establishing links, and explaining empirical trends. We aim for models that capture the essence of fundamental tasks, and for theories that shed insight on basic phenomena in computing.
+
+In this talk, I will highlight how a long journey towards understanding a few fundamental, yet fuzzy, concepts in computing—specifically, “heuristics” (in algorithm design and AI), “regularization” (in machine learning), and “strategies” (in game and combinatorial game theory)—has led to the development of new conceptual frameworks, algorithmic techniques, and mathematical theories.
+
+Short-Bio: Shang-Hua Teng is a University Professor and Seely G. Mudd Professor of Computer Science and Mathematics at USC. He is a fellow of SIAM, ACM, and Alfred P. Sloan Foundation, and has twice won the Gödel Prize, first in 2008, for developing smoothed analysis, and then in 2015, for designing the breakthrough scalable Laplacian solver. Citing him as, “one of the most original theoretical computer scientists in the world”, the Simons Foundation named him a 2014 Simons Investigator to pursue long-term curiosity-driven fundamental research. He also received the 2009 Fulkerson Prize,  2023 Science & Technology Award for Overseas Chinese from the China Computer Federation, 2022 ACM SIGecom Test of Time Award (for settling the complexity of computing a Nash equilibrium), 2021 ACM STOC Test of Time Award (for smoothed analysis), 2020 Phi Kappa Phi Faculty Recognition Award (2020)  for his book Scalable Algorithms for Data and Network Analysis, 2025 STOC Test of Time Award and 2011 STOC Best Paper Award (for improving maximum-flow minimum-cut algorithms). In addition, he and collaborators developed the first optimal well-shaped Delaunay mesh generation algorithms for arbitrary three-dimensional domains, settled the Rousseeuw-Hubert regression-depth conjecture in robust statistics, and resolved two long-standing complexity-theoretical questions regarding the Sprague-Grundy theorem in combinatorial game theory. For his industry work with Xerox, NASA, Intel, IBM, Akamai, and Microsoft, he received fifteen patents in areas including compiler optimization, Internet technology, and social networks.
+</details>
+</td>
+</tr>
+<tr>
+<td>09:50</td>
+<td>
+<details><summary>Short break</summary>
+</details>
+</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>
+<details><summary> Xujin Chen, _Xiyuan Deng_, Xiaodong Hu and _Changjun Wang_ Mixed Graph Covering with Target Constraints </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>10:20</td>
+<td>
+<details><summary> *Sangram Jena* and K. Subramani From MAXCUT to MAXNAESAT: Elegant Proofs and Algorithmic Advances </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>10:40</td>
+<td>
+<details><summary><b>Coffee break</b></summary>
+</details></td>
+</tr>
+<tr>
+<td>11:10</td>
+<td>
+<details><summary> _Shuilian Liu_, Yicheng Xu and Yong Zhang Approximation Algorithms for Individual Preference Facility Location </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>11:30</td>
+<td>
+<details><summary> Hanyin Xiao, Jiaming Zhang, Zhikang Zhang and Weidong Li A LP-rounding based algorithm for soft capacitated facility location problem with submodular penalties </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>11:50</td>
+<td>
+<details><summary> Kelin Luo, _Chenran Yang_, Zonghan Yang and Yuhao Zhang The Subinterval Cover Problem </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>12:10</td>
+<td>
+<details><summary> Zifan Gong, Alexander Lam, Momcilo Mrkaic, Yachao Yan and _Yingchao Zhao_ The Capacity-Constrained Facility Location Problem with Ordinal Preferences: Algorithmic and Mechanism Design Perspectives </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>12:30</td>
+<td>
+<details><summary><b>Lunch break</b></summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>
+<details><summary> Multi-agent Learning, Multi-agent System, Multi-agent Games </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<details><summary> Mengyue Yang </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>14:30</td>
+<td>
+<details><summary><b>Coffee break</b></summary>
+</details>
+</td>
+</tr>
+<tr>
+<td>14:50</td>
+<td>
+<details><summary> Yitian Gao, Jiaxue Li, _Junjie Luo_ and Yiheng Zhang Minimizing Blocking Agents for Stable Matching with Partial Information </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>15:10</td>
+<td>
+<details><summary> Rufan Bai, Huahua Miao, Xiaowei Wu, Cong Zhang and Shengwei Zhou Pure Nash Equilibria of Weighted Picking Sequence Protocol is WEF1 for Two Strategic Agents </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>
+<details><summary><b>Coffee break</b></summary>
+</details>
+</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>
+<details><summary> _Junyue Zhang_ and _Yifen Mu_ A Payoff-Based Policy Gradient Method in Stochastic Games with Long-Run Average Payoffs </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>16:20</td>
+<td>
+<details><summary> _Xinxiang Guo_ and _Yifen Mu_ Regularized Minimax-V Learning for Solving Randomly Terminating Two-player Zero-sum Markov Games </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>16:40</td>
+<td>
+<details><summary><b>Short break</b></summary>
+</details>
+</td>
+</tr>
+<tr>
+<td>16:50</td>
+<td>
+<details><summary> _Bo Li_, Ankang Sun and Md.Habibur Rahman Sifat Improved Approximation of Maximin Share Fair Allocation under Generalized Assignment Constraint </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>17:10</td>
+<td>
+<details><summary> _Ying Qin_, Zeyu Ren, Zihe Wang and Jie Zhang Fair Value Distribution in Cooperative Committee Election </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>18:30</td>
+<td>
+<details><summary><b>Gala dinner</b></summary>
+Location TBA</details>
+</td>
+</tr>
+</table>
 
 ## Wednesday 2/07
 
-  event   complement                                                                                                                                                                                          
-  ------  -----------  --------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------------- 
-  8:30    coffee                                                                                                                                                                                              
-  9:00    keynote 3    _Gabrielle Demange_                                                                                     On stability in simple cooperative games                                         
-  9:50    short break                                                                                                                                                                                         
-  10:00   talk E1      Tiantian Li, Lusheng Wang, and Daming Zhu                                                                                        Finding a Set of Long Common Substrings with Repeats from m Input Strings          
-  10:20   talk E2      Duncan Adamson, Pamela Fleischmann, _Annika Huch_, Tore Koß and Florin Manea                          $k$-Universality of Regular Languages Revisited                                  
-  10:40   break        coffee                                                                                                                                                                                 
-  11:10   talk E3      _Yunxuan Ma_, Yide Bian, Hao Xu, Weitao Yang, Jingshu Zhao, Zhijian Duan, Feng Wang and _Xiaotie Deng_  Large-Scale Contextual Market Equilibrium Computation through Deep Learning        
-  11:30   talk E4      _Hongtao Liu_, Weiran Shen and Yiheng Shen                                                            Optimal Hiring Strategy in Auction-Based Crowdsourcing Systems                     
-  11:50   talk E5      Jingyi Liu, Jianxin Wang, Qilong Feng and Feng Shi                                                  Exact Algorithms for the Maximum $k$-Balanced Weighted Biclique Problem            
-  12:10   talk E6      Faisal Abu-Khzam and _Lucas Isenmann_                                                                 Domination in Diameter-Two Graphs and the 2-Club Cluster Vertex Deletion Parameter 
-  12:30   lunch break  on your own                                                                                                                                                                            
-  14:00   forum 3      Young Researcher Forum                                                                                                                                                                 
-                        _Xinkai Shu_     
-                        Jiaheng Wang     
-  15:30   break        coffee                                                                                                                                        
-  16:00   end          have a safe trip home                                                                                                                                                                  
+<table>
+<tr>
+<td>08:30</td>
+<td>
+<details><summary><b>Coffee</b></summary>
+</details>
+</td>
+</tr>
+<tr>
+<td>09:00</td>
+<td>
+<details><summary><b>Keynote 3.</b> _Gabrielle Demange_ On stability in simple cooperative games </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>09:50</td>
+<td>
+<details><summary><b>Short break</b></summary>
+</details>
+</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>
+<details><summary> Tiantian Li, Lusheng Wang, and Daming Zhu Finding a Set of Long Common Substrings with Repeats from m Input Strings </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>10:20</td>
+<td>
+<details><summary> Duncan Adamson, Pamela Fleischmann, _Annika Huch_, Tore Koß and Florin Manea $k$-Universality of Regular Languages Revisited </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>10:40</td>
+<td>
+<details><summary><b>Coffee break</b></summary>
+</details>
+</td>
+</tr>
+<tr>
+<td>11:10</td>
+<td>
+<details><summary> _Yunxuan Ma_, Yide Bian, Hao Xu, Weitao Yang, Jingshu Zhao, Zhijian Duan, Feng Wang and _Xiaotie Deng_ Large-Scale Contextual Market Equilibrium Computation through Deep Learning </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>11:30</td>
+<td>
+<details><summary> _Hongtao Liu_, Weiran Shen and Yiheng Shen Optimal Hiring Strategy in Auction-Based Crowdsourcing Systems </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>11:50</td>
+<td>
+<details><summary> Jingyi Liu, Jianxin Wang, Qilong Feng and Feng Shi Exact Algorithms for the Maximum $k$-Balanced Weighted Biclique Problem </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>12:10</td>
+<td>
+<details><summary> Faisal Abu-Khzam and _Lucas Isenmann_ Domination in Diameter-Two Graphs and the 2-Club Cluster Vertex Deletion Parameter </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>12:30</td>
+<td>
+<details><summary><b>Lunch break</b></summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>
+<details><summary><b>Young Researcher Forum</b></summary>
+</details>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<details><summary> Xinkai Shu. Breaking the Sorting Barrier for Directed Single-Source Shortest Paths </summary>
+We give a deterministic $O(m \log^{2/3} n)$-time algorithm for single-source shortest paths (SSSP) on directed graphs with real non-negative edge weights in comparison-addition model. This is the first result to break the $O(m + n \log n)$ time bound of Dijkstra algorithm on sparse graphs, showing that Dijkstra's algorithm is not optimal for SSSP.
+
+Biography: Xinkai Shu is a postdoctoral researcher at Max Planck Institute for Informatics. He obtained his PhD in Computer Science at The University of Hong Kong, supervised by Prof. Zhiyi Huang. Before that he obtained his bachelor's degree from Yao Class, Tsinghua University. His research interest is online algorithms, algorithmic game theory and fundamental graph algorithms.
+</details>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<details><summary> Jiaheng Wang. Can You Link Up With Treewidth? </summary>
+In a fundamental paper in parameterized complexity theory, Marx constructed k-vertex graphs H of maximum degree 3 such that n^o(k/log k) time algorithms for detecting colorful H-subgraphs would refute the Exponential-Time Hypothesis (ETH). This result is widely used to obtain almost-tight conditional lower bounds for parameterized problems under ETH.
+
+We give a new, fully self-contained and elementary proof of this result avoiding arguments involving expander graphs, which were required in previous papers. In our proof, we introduce a novel graph parameter of independent interest, the linkage capacity, and then use a simple construction of communication networks credited to Beneš to obtain such hard patterns.
+
+Our technique only requires elementary divide-and-conquer arguments that feature in first-year undergraduate introduction courses to discrete mathematics and computer science.
+
+This paper has appeared at STACS'25. Joint work with Radu Curticapean (Regensburg, ITU Copenhagen), Simon Döring (Saarland, MPI) and Daniel Neuen (MPI). 
+
+Biography: Jiaheng Wang is currently a postdoctoral researcher at the University of Regensburg. He worked as a postdoctoral research associate at the University of Edinburgh from 2023 to 2024. Prior to this, he obtained his PhD degree in 2023 from the University of Edinburgh, supervised by Dr. Heng Guo. Even earlier, he obtained his BSc degree (summa cum laude) in 2020 from Peking University as a member of the Turing Class. His research interest lies in multiple topics in theoretical computer science, with a focus on algorithms and complexity for counting problems. 
+</details>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<details><summary> Junyao Zhao </summary>
+Abstract TBA</details>
+</td>
+</tr>
+<tr>
+<td>15:30</td>
+<td>
+<details><summary><b>coffee</b></summary>
+</details>
+</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>
+<details><summary><b>Have a safe trip home</b></summary>
+</details>
+</td>
+</tr>
+</table>
+                                                                                                                       
 
 # Locations
 
