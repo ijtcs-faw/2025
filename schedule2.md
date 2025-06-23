@@ -8,71 +8,125 @@
 
 ## Monday 30/06
 
-__8:30 checkin and coffee__
 
-__9:00 Opening, greetings and practical informations__
-
-<details>
-<summary><b>9:05 Keynote 1:</b> Xiaoming Sun. Some mathematical problems in quantum circuit synthesis and optimization</summary>
+<table>
+<tr>
+ <td>8:30</td>
+ <td><b>checkin and coffee</b></td>
+</tr>
+<tr>
+ <td>9:00</td>
+ <td><b>Opening, greetings and practical informations</b></td>
+</tr>
+<tr>
+<td>9:05</td>
+ <td>
+  <details>
+<summary><b>Keynote 1:</b> Xiaoming Sun. Some mathematical problems in quantum circuit synthesis and optimization</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
+<tr>
+ <td>9:55</td>
+ <td><b>Short break</b></td>
+</tr>
 
-<details>
-<summary><b>9:55 Short break</b></summary>
-</details>
-
-<details>
-<summary><b>10:05 talk A1.</b> Yusen Zheng, Yukun Cheng, Chenyang Xu and Xiaotie Deng. Mechanism Design for Auctions with Externalities on Budgets</summary>
+<tr>
+<td>10:05</td>
+ <td>
+  <details>
+<summary>Yusen Zheng, Yukun Cheng, Chenyang Xu and Xiaotie Deng. Mechanism Design for Auctions with Externalities on Budgets</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>10:25 talk A2.</b> Jing Chen and Wentao Zhou. Less-excludable Mechanism for DAOs in Public Good Auctions</summary>
+<tr>
+<td>10:25</td>
+ <td>
+  <details>
+<summary>Jing Chen and Wentao Zhou. Less-excludable Mechanism for DAOs in Public Good Auctions</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>10:45 Coffee break</b></summary>
-</details>
+<tr>
+<td>10:45</td>
+ <td><b>Coffee break</b></td>
+</tr>
 
-<details>
-<summary><b>11:10 talk A3.</b> Wu Xin, Hongyin Chen, Xiaoqi Dong, Jichen Li, Xiaotie Deng, Zhonghai Wu and Bin Xiao. TBDS: Transaction-Based Data</summary>
+<tr>
+<td>11:10</td>
+ <td>
+  <details>
+<summary>Wu Xin, Hongyin Chen, Xiaoqi Dong, Jichen Li, Xiaotie Deng, Zhonghai Wu and Bin Xiao. TBDS: Transaction-Based Data</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>11:30 talk A4.</b> Felipe Furquim, Valentin Dardilhac, Daniel Cordeiro and Johanne Cohen. Characterizing Strategyproofness Through Score Functions in Voting Mechanisms</summary>
+<tr>
+<td>11:30</td>
+ <td>
+  <details>
+<summary>Felipe Furquim, Valentin Dardilhac, Daniel Cordeiro and Johanne Cohen. Characterizing Strategyproofness Through Score Functions in Voting Mechanisms</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>11:50 talk A5.</b> Zhengyan Deng, Yusen Zheng, Chenliang Sheng and Shaowen Qin. Optimal Repurchasing  Contract Design for Efficient Utilization of Computing Resources </summary>
+<tr>
+<td>11:50</td>
+ <td>
+  <details>
+<summary>Zhengyan Deng, Yusen Zheng, Chenliang Sheng and Shaowen Qin. Optimal Repurchasing  Contract Design for Efficient Utilization of Computing Resources </summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>12:10 talk A6.</b> Zhou Chen, Qi Qi, Hao Sun and Muyang Zhao .A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer</summary>
+
+<tr>
+<td>12:10</td>
+ <td>
+  <details>
+<summary>Zhou Chen, Qi Qi, Hao Sun and Muyang Zhao .A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>12:30 lunch break.</b> </summary>
-On your own
-</details>
 
+<tr>
+<td>12:30</td>
+ <td><b>Lunch break</b></td>
+</tr>
+
+<tr>
+<td>13:30</td>
+ <td><b>Forum 1. Quantum Computing</b></td>
+</tr>
+
+<tr>
+<td>13:30</td>
+ <td>
 <details>
-<summary><b>13:30 Forum 1: Quantum Computing.</b> </summary>
-</details>
-<details>
-<summary><b>13:30 Forum 1-1.</b>Penghui Yao. On the Computational Power of QAC0 with Barely Superlinear Ancillae </summary>
+<summary><b>Forum 1-1.</b> Penghui Yao. On the Computational Power of QAC0 with Barely Superlinear Ancillae </summary>
 $\mathrm{QAC}^0$ is the family of constant-depth polynomial-size quantum circuits consisting of arbitrary single qubit unitaries and multi-qubit Toffoli gates. It was introduced by Moore [arXiv: 9903046] as a quantum counterpart of $\mathrm{AC}^0$, along with the conjecture that $\mathrm{QAC}^0$ circuits can not compute PARITY. In this work we make progress on this longstanding conjecture: we show that any depth-$d$ $\mathrm{QAC}^0$ circuit requires $n^{1+3^{-d}}$ ancillae to compute a function with approximate degree $\Theta(n)$, which includes PARITY, MAJORITY and $\mathrm{MOD}_k$. This is the first superlinear lower bound on the size of the ancillae required for computing parity. We further establish superlinear lower bounds on quantum state synthesis and quantum channel synthesis. These lower bounds are derived by giving low-degree approximations to $\mathrm{QAC}^0$ circuits. We show that a depth-$d$ $\mathrm{QAC}^0$ circuit with $a$ ancillae, when applied to low-degree operators, has a degree $(n+a)^{1-3^{-d}}$ polynomial approximation in the spectral norm. This implies that the class $\mathrm{QLC}^0$, corresponding to linear size $\mathrm{QAC}^0$ circuits, has approximate degree $o(n)$. This is a quantum generalization of the result that $\mathrm{LC}^0$ circuits have approximate degree $o(n)$ by Bun, Kothari, and Thaler [SODA 2019]. Our result also implies that $\mathrm{QLC}^0\neq\mathrm{NC}^1$.
 
 
 Biography: Penghui Yao is a professor in the Department of Computer Science and Technology, Nanjing University. He obtained his doctoral degree from Centre for Quantum Technology, National University of Singapore. Prior to joining Nanjing University, He was a postdoctoral researcher at CWI Netherlands;  IQC University of Waterloo and QuICS University of Maryland. His research mainly focuses on quantum algorithms, quantum information theory and quantum computational complexity.
 </details>
+ </td>
+</tr>
 
+<tr>
+<td>14:00</td>
+ <td>
 <details>
-<summary><b>14:00 Forum 1-2.</b>Bujiao Wu. State Similarity in Modular Superconducting Quantum Processors with Classical Communications</summary>
+<summary><b>Forum 1-2.</b> Bujiao Wu. State Similarity in Modular Superconducting Quantum Processors with Classical Communications</summary>
 As quantum devices continue to scale, distributed quantum computing emerges as a promising strategy for executing large-scale tasks across modular quantum processors. A central challenge in this paradigm is verifying the correctness of computational outcomes when subcircuits are executed independently following circuit cutting. In this work, we propose a cross-platform fidelity estimation algorithm tailored for modular architectures. Our method achieves substantial reductions in sample complexity compared to previous approaches designed for single-processor systems. We experimentally implement the protocol on modular superconducting quantum processors with up to 6 qubits to verify the similarity of two 11-qubit GHZ states. Beyond verification, we show that our algorithm enables a federated quantum kernel method that preserves data privacy. As a proof of concept, we apply it to a 5-qubit quantum phase learning task using six 3-qubit modules, successfully extracting phase information with just eight training samples. These results establish a practical path for
 scalable verification and trustworthy quantum machine learning of modular quantum processors.
 
@@ -80,63 +134,118 @@ Reference: Wu, Bujiao, et al. "State Similarity in Modular Superconducting Quant
 
 Biography: Bujiao Wu, an associate researcher at the International Quantum Academy. Her main research areas include the design of quantum algorithms, optimization of quantum circuits, quantum randomized measurements, quantum machine learning, and quantum advantages.
 </details>
+ </td>
+</tr>
 
+<tr>
+<td>14:30</td>
+ <td>
 <details>
-<summary><b>14:30 Forum 1-3.</b>Yiming Huang. Learning unitary process with autoregressive neural network</summary>
+<summary><b>Forum 1-3.</b> Yiming Huang. Learning unitary process with autoregressive neural network</summary>
 Characterizing quantum processes is a cornerstone of quantum information science, but conventional techniques like quantum process tomography (QPT) demand extensive resources and suffer from poor scalability. Here, we propose a learning-based approach that leverages the generative model to efficiently learn Hamiltonian dynamics. By decomposing such dynamics into a linear combination of Pauli operators, with the expansion coefficients parameterized by an autoregressive neural network (ARNN), we design an infidelity loss and then train the ARNN to learn such unitary process. Our numerical experiments demonstrate that our proposed model offers a scalable and flexible pathway for characterizing quantum operations with potential applications in quantum computing and quantum information processing.
 
 Biography: Yiming Huang, a postdoctoral fellow at the Center on Frontiers of Computing Studies, Peking University, mainly focus on quantum algorithm and optimization for NISQ devices, and leveraging machine learning to tackle problems in quantum chemistry and many-body physics. His work aims to advance the application of quantum computing and machine learning in complex optimization and data processing.
 </details>
+ </td>
+</tr>
 
 
-<details>
-<summary><b>15:00  talk B1.</b> Magnus Berg, Joan Boyar, Lene M. Favrholdt and Kim S. Larsen. Complexity Classes for Online Problems with and without Predictions</summary>
+<tr>
+<td>15:00</td>
+ <td>
+  <details>
+<summary>Magnus Berg, Joan Boyar, Lene M. Favrholdt and Kim S. Larsen. Complexity Classes for Online Problems with and without Predictions</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>15:20  talk B2.</b> Magnus Berg. Comparing the Hardness of Online Minimization and Maximization Problems with Predictions</summary>
+<tr>
+<td>15:20</td>
+ <td>
+  <details>
+<summary>Magnus Berg. Comparing the Hardness of Online Minimization and Maximization Problems with Predictions</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>15:40 Coffee break</b> </summary>
-</details>
 
-<details>
-<summary><b>16:00  talk B3.</b> Alfredo Navarra and Francesco Piselli. Oblivious Robots Under Round Robin: Gathering on Rings</summary>
+
+<tr>
+<td>15:40</td>
+ <td><b>Coffee break</b></td>
+</tr>
+
+<tr>
+<td>16:00</td>
+ <td>
+  <details>
+<summary>Alfredo Navarra and Francesco Piselli. Oblivious Robots Under Round Robin: Gathering on Rings</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>16:20  talk B4.</b> Zhonghao Liu, Man Xiao, Xiaofei Liu and Weidong Li. The online power cover problem on a line</summary>
+<tr>
+<td>16:20</td>
+ <td>
+  <details>
+<summary>Zhonghao Liu, Man Xiao, Xiaofei Liu and Weidong Li. The online power cover problem on a line</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>16:40  short break.</b> </summary>
+<tr>
+<td>16:40</td>
+ <td><b>Short break</b></td>
+</tr>
+<tr>
+ 
+<td>16:50</td>
+ <td>
+  <details>
+<summary>Jesper Jansson, Miroslaw Kowaluk, Andrzej Lingas and Mia Persson. Multiplication of 0-1 matrices via clustering</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>16:50  talk B5.</b> Jesper Jansson, Miroslaw Kowaluk, Andrzej Lingas and Mia Persson. Multiplication of 0-1 matrices via clustering</summary>
+<tr>
+<td>17:10</td>
+ <td>
+  <details>
+<summary>Felix Buld and Andreas S. Schulz. Scheduling with Testing: Competitive Algorithms for Minimizing the Total Weighted Completion Time in the Adversarial Model</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>17:10  talk B6.</b> Felix Buld and Andreas S. Schulz. Scheduling with Testing: Competitive Algorithms for Minimizing the Total Weighted Completion Time in the Adversarial Model</summary>
+<tr>
+<td>17:30</td>
+ <td>
+  <details>
+<summary><b>Forum.</b> Women in science</summary>
 Abstract TBA
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>17:30 forum</b> </summary>
-Women in science
+<tr>
+<td>18:30</td>
+ <td>
+  <details>
+<summary><b>Light reception</b></summary>
+Located in Sorbonne University, Campus les Cordeliers, 15 rue de l'École-de-médecine, 75006 Paris, Métro Odéon, room Marie-Curie. It is at walking distance from the conference site.
 </details>
+ </td>
+</tr>
 
-<details>
-<summary><b>18:30  light reception.</b> </summary>
-les Cordeliers 
-</details>
+
+</table>
+
+
 
 
 
