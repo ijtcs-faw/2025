@@ -320,17 +320,15 @@ TBA</details>
 </tr>
 <tr>
 <td>14:00</td>
-<td> 
+<td> <b>Forum 2.</b> 
 Multi-agent Learning, Multi-agent System, Multi-agent Games <br>
-<details><summary>Abstract</summary>
-TBA</details>
 </td>
 </tr>
 <tr>
 <td> </td>
 <td> 
 Title TBA<br> 
-Mengyue Yang <br>
+<i>Mengyue Yang</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -354,7 +352,7 @@ TBA</details>
 <td>15:10</td>
 <td> 
 Pure Nash Equilibria of Weighted Picking Sequence Protocol is WEF1 for Two Strategic Agents <br> 
-Rufan Bai, Huahua Miao, Xiaowei Wu, Cong Zhang and Shengwei Zhou <br>
+Rufan Bai, Huahua Miao, Xiaowei Wu, <i>Cong Zhang</i> and Shengwei Zhou <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
