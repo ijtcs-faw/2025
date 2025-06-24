@@ -39,8 +39,8 @@ Quantum circuits, serving as the foundational mathematical framework for quantum
 Mechanism Design for Auctions with Externalities on Budgets <br> 
 _Yusen Zheng_, _Yukun Cheng_, Chenyang Xu and _Xiaotie Deng_ <br>
 <details><summary>Abstract</summary>
-TBA</td>
-</details>
+TBA</details>
+</td>
 </tr>
 <tr>
 <td>10:25</td>
@@ -48,8 +48,8 @@ TBA</td>
 Less-excludable Mechanism for DAOs in Public Good Auctions <br> 
 _Jing Chen_ and _Wentao Zhou_ <br>
 <details><summary>Abstract</summary>
-TBA</td>
-</details>
+TBA</details>
+</td>
 </tr>
 <tr>
 <td>10:45</td>
@@ -61,8 +61,8 @@ TBA</td>
 TBDS: Transaction-Based Data Sharing <br> 
 _Wu Xin_, Hongyin Chen, Xiaoqi Dong, Jichen Li, _Xiaotie Deng_, Zhonghai Wu and Bin Xiao <br>
 <details><summary>Abstract</summary>
-TBA</td>
-</details>
+TBA</details>
+</td>
 </tr>
 <tr>
 <td>11:30</td>
@@ -70,8 +70,8 @@ TBA</td>
 Characterizing Strategyproofness Through Score Functions in Voting Mechanisms <br> 
 _Felipe Furquim_, _Valentin Dardilhac_, Daniel Cordeiro and _Johanne Cohen_ <br>
 <details><summary>Abstract</summary>
-TBA</td>
-</details>
+TBA</details>
+</td>
 </tr>
 <tr>
 <td>11:50</td>
@@ -79,8 +79,8 @@ TBA</td>
 Optimal Repurchasing Contract Design for Efficient Utilization of Computing Resources <br> 
 _Zhengyan Deng_, _Yusen Zheng_, Chenliang Sheng and Shaowen Qin <br>
 <details><summary>Abstract</summary>
-TBA</td>
-</details>
+TBA</details>
+</td>
 </tr>
 <tr>
 <td>12:10</td>
@@ -88,8 +88,8 @@ TBA</td>
 A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer <br> 
 Zhou Chen, Qi Qi, Hao Sun and _Muyang Zhao_ <br>
 <details><summary>Abstract</summary>
-TBA</td>
-</details>
+TBA</details>
+</td>
 </tr>
 
 
@@ -149,8 +149,8 @@ Biography: Yiming Huang, a postdoctoral fellow at the Center on Frontiers of Com
 Complexity Classes for Online Problems with and without Predictions <br> 
 _Magnus Berg_, Joan Boyar, Lene M. Favrholdt and Kim S. Larsen <br>
 <details><summary>Abstract</summary>
-TBA</td>
-</details>
+TBA</details>
+</td>
 </tr>
 <tr>
 <td>15:20</td>
@@ -158,8 +158,8 @@ TBA</td>
 Comparing the Hardness of Online Minimization and Maximization Problems with Predictions <br> 
 _Magnus Berg_ <br>
 <details><summary>Abstract</summary>
-TBA</td>
-</details>
+TBA</details>
+</td>
 </tr>
 <tr>
 <td>15:40</td>
@@ -171,8 +171,8 @@ TBA</td>
 Oblivious Robots Under Round Robin: Gathering on Rings <br> 
 Alfredo Navarra and _Francesco Piselli_ <br>
 <details><summary>Abstract</summary>
-TBA</td>
-</details>
+TBA</details>
+</td>
 </tr>
 <tr>
 <td>16:20</td>
@@ -180,8 +180,8 @@ TBA</td>
 The online power cover problem on a line <br> 
 Zhonghao Liu, Man Xiao, _Xiaofei Liu_ and Weidong Li <br>
 <details><summary>Abstract</summary>
-TBA</td>
-</details>
+TBA</details>
+</td>
 </tr>
 
 <tr>
@@ -196,8 +196,8 @@ TBA</td>
 Multiplication of 0-1 matrices via clustering <br> 
 _Jesper Jansson_, Miroslaw Kowaluk, Andrzej Lingas and Mia Persson <br>
 <details><summary>Abstract</summary>
-TBA</td>
-</details>
+TBA</details>
+</td>
 </tr>
 <tr>
 <td>17:10</td>
@@ -205,8 +205,8 @@ TBA</td>
 Scheduling with Testing: Competitive Algorithms for Minimizing the Total Weighted Completion Time in the Adversarial Model <br> 
 _Felix Buld_ and Andreas S. Schulz <br>
 <details><summary>Abstract</summary>
-TBA</td>
-</details>
+TBA</details>
+</td>
 </tr>
 <tr>
 <td>17:30</td>
