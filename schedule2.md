@@ -21,7 +21,7 @@
 <tr>
 <td>9:05</td>
  <td>
-<b>Keynote 1:</b> Xiaoming Sun. Some mathematical problems in quantum circuit synthesis and optimization
+<b>Keynote 1:</b> <i>Xiaoming Sun</i>. Some mathematical problems in quantum circuit synthesis and optimization
 <details>
 <summary>Abstract</summary>
 Quantum circuits, serving as the foundational mathematical framework for quantum algorithm design, have become one of the key research areas in the field of quantum computing. As the field transitions beyond the Noisy Intermediate-Scale Quantum (NISQ) era, the synthesis and optimization of quantum circuits have emerged as critical challenges. While classical circuit complexity primarily focuses on minimizing size and depth, the complexity of quantum circuits demands a multi-objective approach encompassing additional metrics involving the number of auxiliary qubits, different energy levels used, and many other aspects. In this talk, we will discuss a series of new problems and recent research progress in quantum circuit compression, and explore theoretical connections between these problems and classical important problems such as Babai's conjecture about the diameter of Cayley graphs.
@@ -37,7 +37,7 @@ Quantum circuits, serving as the foundational mathematical framework for quantum
 <td>10:05</td>
 <td> 
 Mechanism Design for Auctions with Externalities on Budgets <br> 
-_Yusen Zheng_, _Yukun Cheng_, Chenyang Xu and _Xiaotie Deng_ <br>
+<i>Yusen Zheng</i>, <i>Yukun Cheng</i>, Chenyang Xu and <i>Xiaotie Deng</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -46,7 +46,7 @@ TBA</details>
 <td>10:25</td>
 <td> 
 Less-excludable Mechanism for DAOs in Public Good Auctions <br> 
-_Jing Chen_ and _Wentao Zhou_ <br>
+<i>Jing Chen</i> and <i>Wentao Zhou</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -59,7 +59,7 @@ TBA</details>
 <td>11:10</td>
 <td> 
 TBDS: Transaction-Based Data Sharing <br> 
-_Wu Xin_, Hongyin Chen, Xiaoqi Dong, Jichen Li, _Xiaotie Deng_, Zhonghai Wu and Bin Xiao <br>
+<i>Wu Xin</i>, Hongyin Chen, Xiaoqi Dong, Jichen Li, <i>Xiaotie Deng</i>, Zhonghai Wu and Bin Xiao <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -68,7 +68,7 @@ TBA</details>
 <td>11:30</td>
 <td> 
 Characterizing Strategyproofness Through Score Functions in Voting Mechanisms <br> 
-_Felipe Furquim_, _Valentin Dardilhac_, Daniel Cordeiro and _Johanne Cohen_ <br>
+<i>Felipe Furquim</i>, <i>Valentin Dardilhac</i>, Daniel Cordeiro and <i>Johanne Cohen</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -77,7 +77,7 @@ TBA</details>
 <td>11:50</td>
 <td> 
 Optimal Repurchasing Contract Design for Efficient Utilization of Computing Resources <br> 
-_Zhengyan Deng_, _Yusen Zheng_, Chenliang Sheng and Shaowen Qin <br>
+<i>Zhengyan Deng</i>, <i>Yusen Zheng</i>, Chenliang Sheng and Shaowen Qin <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -86,7 +86,7 @@ TBA</details>
 <td>12:10</td>
 <td> 
 A Comparative Study of Waitlist Mechanisms: Deferral Versus Pay-Per-Offer <br> 
-Zhou Chen, Qi Qi, Hao Sun and _Muyang Zhao_ <br>
+Zhou Chen, Qi Qi, Hao Sun and <i>Muyang Zhao</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -147,7 +147,7 @@ Biography: Yiming Huang, a postdoctoral fellow at the Center on Frontiers of Com
 <td>15:00</td>
 <td> 
 Complexity Classes for Online Problems with and without Predictions <br> 
-_Magnus Berg_, Joan Boyar, Lene M. Favrholdt and Kim S. Larsen <br>
+<i>Magnus Berg</i>, Joan Boyar, Lene M. Favrholdt and Kim S. Larsen <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -156,7 +156,7 @@ TBA</details>
 <td>15:20</td>
 <td> 
 Comparing the Hardness of Online Minimization and Maximization Problems with Predictions <br> 
-_Magnus Berg_ <br>
+<i>Magnus Berg</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -169,7 +169,7 @@ TBA</details>
 <td>16:00</td>
 <td> 
 Oblivious Robots Under Round Robin: Gathering on Rings <br> 
-Alfredo Navarra and _Francesco Piselli_ <br>
+Alfredo Navarra and <i>Francesco Piselli</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -178,7 +178,7 @@ TBA</details>
 <td>16:20</td>
 <td> 
 The online power cover problem on a line <br> 
-Zhonghao Liu, Man Xiao, _Xiaofei Liu_ and Weidong Li <br>
+Zhonghao Liu, Man Xiao, <i>Xiaofei Liu</i> and Weidong Li <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -194,7 +194,7 @@ TBA</details>
 <td>16:50</td>
 <td> 
 Multiplication of 0-1 matrices via clustering <br> 
-_Jesper Jansson_, Miroslaw Kowaluk, Andrzej Lingas and Mia Persson <br>
+<i>Jesper Jansson</i>, Miroslaw Kowaluk, Andrzej Lingas and Mia Persson <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -203,7 +203,7 @@ TBA</details>
 <td>17:10</td>
 <td> 
 Scheduling with Testing: Competitive Algorithms for Minimizing the Total Weighted Completion Time in the Adversarial Model <br> 
-_Felix Buld_ and Andreas S. Schulz <br>
+<i>Felix Buld</i> and Andreas S. Schulz <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -241,7 +241,7 @@ Located in Sorbonne University, Campus les Cordeliers, 15 rue de l'École-de-mé
 <td>09:00</td>
 <td> 
 Regularization, Heuristics, and Strategy: A Long Journey Towards Understanding a Few Fundamental yet Fuzzy Concepts in Computing <br> 
-_Shanghua Teng_ <br>
+<i>Shanghua Teng</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -256,7 +256,7 @@ TBA</details>
 <td>10:00</td>
 <td> 
 Mixed Graph Covering with Target Constraints <br> 
-Xujin Chen, _Xiyuan Deng_, Xiaodong Hu and _Changjun Wang_ <br>
+Xujin Chen, <i>Xiyuan Deng</i>, Xiaodong Hu and <i>Changjun Wang</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -280,7 +280,7 @@ TBA</details>
 <td>11:10</td>
 <td> 
 Approximation Algorithms for Individual Preference Facility Location <br> 
-_Shuilian Liu_, Yicheng Xu and Yong Zhang <br>
+<i>Shuilian Liu</i>, Yicheng Xu and Yong Zhang <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -298,7 +298,7 @@ TBA</details>
 <td>11:50</td>
 <td> 
 The Subinterval Cover Problem <br> 
-Kelin Luo, _Chenran Yang_, Zonghan Yang and Yuhao Zhang <br>
+Kelin Luo, <i>Chenran Yang</i>, Zonghan Yang and Yuhao Zhang <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -307,7 +307,7 @@ TBA</details>
 <td>12:10</td>
 <td> 
 The Capacity-Constrained Facility Location Problem with Ordinal Preferences: Algorithmic and Mechanism Design Perspectives <br> 
-Zifan Gong, Alexander Lam, Momcilo Mrkaic, Yachao Yan and _Yingchao Zhao_ <br>
+Zifan Gong, Alexander Lam, Momcilo Mrkaic, Yachao Yan and <i>Yingchao Zhao</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -345,7 +345,7 @@ TBA</details>
 <td>14:50</td>
 <td> 
 Minimizing Blocking Agents for Stable Matching with Partial Information <br> 
-Yitian Gao, Jiaxue Li, _Junjie Luo_ and Yiheng Zhang <br>
+Yitian Gao, Jiaxue Li, <i>Junjie Luo</i> and Yiheng Zhang <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -369,7 +369,7 @@ TBA</details>
 <td>16:00</td>
 <td> 
 A Payoff-Based Policy Gradient Method in Stochastic Games with Long-Run Average Payoffs <br> 
-_Junyue Zhang_ and _Yifen Mu_ <br>
+<i>Junyue Zhang</i> and <i>Yifen Mu</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -378,7 +378,7 @@ TBA</details>
 <td>16:20</td>
 <td> 
 Regularized Minimax-V Learning for Solving Randomly Terminating Two-player Zero-sum Markov Games <br> 
-_Xinxiang Guo_ and _Yifen Mu_ <br>
+<i>Xinxiang Guo</i> and <i>Yifen Mu</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -393,7 +393,7 @@ TBA</details>
 <td>16:50</td>
 <td> 
 Improved Approximation of Maximin Share Fair Allocation under Generalized Assignment Constraint <br> 
-_Bo Li_, Ankang Sun and Md.Habibur Rahman Sifat <br>
+<i>Bo Li</i>, Ankang Sun and Md.Habibur Rahman Sifat <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -402,7 +402,7 @@ TBA</details>
 <td>17:10</td>
 <td> 
 Fair Value Distribution in Cooperative Committee Election <br> 
-_Ying Qin_, Zeyu Ren, Zihe Wang and Jie Zhang <br>
+<i>Ying Qin</i>, Zeyu Ren, Zihe Wang and Jie Zhang <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -430,7 +430,7 @@ Location TBA</details>
 <tr>
 <td>09:00</td>
 <td>
-<b>Keynote 3.</b> _Gabrielle Demange_ On stability in simple cooperative games 
+<b>Keynote 3.</b> <i>Gabrielle Demange</i>. On stability in simple cooperative games 
 <details><summary>Abstract</summary>
 TBA
 </details>
@@ -455,7 +455,7 @@ TBA</details>
 <td>10:20</td>
 <td> 
 $k$-Universality of Regular Languages Revisited <br> 
-Duncan Adamson, Pamela Fleischmann, _Annika Huch_, Tore Koß and Florin Manea <br>
+Duncan Adamson, Pamela Fleischmann, <i>Annika Huch</i>, Tore Koß and Florin Manea <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -470,7 +470,7 @@ TBA</details>
 <td>11:10</td>
 <td> 
 Large-Scale Contextual Market Equilibrium Computation through Deep Learning <br> 
-_Yunxuan Ma_, Yide Bian, Hao Xu, Weitao Yang, Jingshu Zhao, Zhijian Duan, Feng Wang and _Xiaotie Deng_ <br>
+<i>Yunxuan Ma</i>, Yide Bian, Hao Xu, Weitao Yang, Jingshu Zhao, Zhijian Duan, Feng Wang and <i>Xiaotie Deng</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -479,7 +479,7 @@ TBA</details>
 <td>11:30</td>
 <td> 
 Optimal Hiring Strategy in Auction-Based Crowdsourcing Systems <br> 
-_Hongtao Liu_, Weiran Shen and Yiheng Shen <br>
+<i>Hongtao Liu</i>, Weiran Shen and Yiheng Shen <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -497,7 +497,7 @@ TBA</details>
 <td>12:10</td>
 <td> 
 Domination in Diameter-Two Graphs and the 2-Club Cluster Vertex Deletion Parameter <br> 
-Faisal Abu-Khzam and _Lucas Isenmann_ <br>
+Faisal Abu-Khzam and <i>Lucas Isenmann</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -520,7 +520,7 @@ Young Researcher Forum <br>
 <td> </td>
 <td> 
 Breaking the Sorting Barrier for Directed Single-Source Shortest Paths <br> 
-_Xinkai Shu_ <br>
+<i>Xinkai Shu</i> <br>
 <details><summary>Abstract</summary>
 We give a deterministic $O(m \log^{2/3} n)$-time algorithm for single-source shortest paths (SSSP) on directed graphs with real non-negative edge weights in comparison-addition model. This is the first result to break the $O(m + n \log n)$ time bound of Dijkstra algorithm on sparse graphs, showing that Dijkstra's algorithm is not optimal for SSSP.<br><br>
  
@@ -532,7 +532,7 @@ Biography: Xinkai Shu is a postdoctoral researcher at Max Planck Institute for I
 <td> </td>
 <td> 
 Can You Link Up With Treewidth? <br> 
-Jiaheng Wang <br>
+<i>Jiaheng Wang</i> <br>
 <details><summary>Abstract</summary>
 In a fundamental paper in parameterized complexity theory, Marx constructed k-vertex graphs H of maximum degree 3 such that n^o(k/log k) time algorithms for detecting colorful H-subgraphs would refute the Exponential-Time Hypothesis (ETH). This result is widely used to obtain almost-tight conditional lower bounds for parameterized problems under ETH.
 
@@ -550,7 +550,7 @@ Biography: Jiaheng Wang is currently a postdoctoral researcher at the University
 <td> </td>
 <td> 
 <br> 
-Junyao Zhao <br>
+<i>Junyao Zhao</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
