@@ -226,7 +226,6 @@ Located in Sorbonne University, Campus les Cordeliers, 15 rue de l'École-de-mé
 </details>
  </td>
 </tr>
-
 </table>
 
 ## Tuesday 1/07
