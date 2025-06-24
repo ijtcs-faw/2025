@@ -410,7 +410,11 @@ TBA</details>
 <td>18:30</td>
 <td>
 <details><summary><b>Gala dinner</b></summary>
-Location TBA</details>
+Restaurant Macéo, 15 Rue des Petits Champs, 75001 Paris<br>
+ 45 minutes walk from Jussieu
+ <br>
+ or Métro line 7 from Jussieu to Pyramides in 22 minutes
+</details>
 </td>
 </tr>
 </table>
