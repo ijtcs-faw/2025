@@ -327,7 +327,7 @@ Multi-agent Learning, Multi-agent System, Multi-agent Games <br>
 <tr>
 <td> </td>
 <td> 
-Title TBA<br> 
+<b>Forum 2-1.</b> Title TBA<br> 
 <i>Mengyue Yang</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
@@ -510,14 +510,13 @@ TBA</details>
 <tr>
 <td>14:00</td>
 <td> 
-<br> 
-Young Researcher Forum <br>
+<b>Forum 3. Young Researcher Forum </b><br>
 </td>
 </tr>
 <tr>
 <td> </td>
 <td> 
-Breaking the Sorting Barrier for Directed Single-Source Shortest Paths <br> 
+<b>Forum 3-1.</b> Breaking the Sorting Barrier for Directed Single-Source Shortest Paths <br> 
 <i>Xinkai Shu</i> <br>
 <details><summary>Abstract</summary>
 We give a deterministic $O(m \log^{2/3} n)$-time algorithm for single-source shortest paths (SSSP) on directed graphs with real non-negative edge weights in comparison-addition model. This is the first result to break the $O(m + n \log n)$ time bound of Dijkstra algorithm on sparse graphs, showing that Dijkstra's algorithm is not optimal for SSSP.<br><br>
@@ -529,7 +528,7 @@ Biography: Xinkai Shu is a postdoctoral researcher at Max Planck Institute for I
 <tr>
 <td> </td>
 <td> 
-Can You Link Up With Treewidth? <br> 
+<b>Forum 3-2.</b> Can You Link Up With Treewidth? <br> 
 <i>Jiaheng Wang</i> <br>
 <details><summary>Abstract</summary>
 In a fundamental paper in parameterized complexity theory, Marx constructed k-vertex graphs H of maximum degree 3 such that n^o(k/log k) time algorithms for detecting colorful H-subgraphs would refute the Exponential-Time Hypothesis (ETH). This result is widely used to obtain almost-tight conditional lower bounds for parameterized problems under ETH.
@@ -547,7 +546,7 @@ Biography: Jiaheng Wang is currently a postdoctoral researcher at the University
 <tr>
 <td> </td>
 <td> 
-<br> 
+<b>Forum 3-3.</b> Title TBA<br> 
 <i>Junyao Zhao</i> <br>
 <details><summary>Abstract</summary>
 TBA</details>
