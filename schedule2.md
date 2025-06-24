@@ -188,7 +188,7 @@ TBA</details>
 <td>16:40</td>
  <td><b>Short break</b></td>
 </tr>
-<tr>
+
 
 <tr>
 <td>16:50</td>
