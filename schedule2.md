@@ -23,7 +23,7 @@
  <td>
   <details>
 <summary><b>Keynote 1:</b> Xiaoming Sun. Some mathematical problems in quantum circuit synthesis and optimization</summary>
-Abstract TBA
+Quantum circuits, serving as the foundational mathematical framework for quantum algorithm design, have become one of the key research areas in the field of quantum computing. As the field transitions beyond the Noisy Intermediate-Scale Quantum (NISQ) era, the synthesis and optimization of quantum circuits have emerged as critical challenges. While classical circuit complexity primarily focuses on minimizing size and depth, the complexity of quantum circuits demands a multi-objective approach encompassing additional metrics involving the number of auxiliary qubits, different energy levels used, and many other aspects. In this talk, we will discuss a series of new problems and recent research progress in quantum circuit compression, and explore theoretical connections between these problems and classical important problems such as Babai's conjecture about the diameter of Cayley graphs.
 </details>
  </td>
 </tr>
