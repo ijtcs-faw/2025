@@ -6,8 +6,8 @@
 | Afternoon | conference        | conference  | forum        | 
 | Evening   | light reception   | Banquet     |              | 
 
-## Monday 30/06
 
+## Monday 30/06
 
 <table>
 <tr>
@@ -227,12 +227,7 @@ Located in Sorbonne University, Campus les Cordeliers, 15 rue de l'École-de-mé
  </td>
 </tr>
 
-
 </table>
-
-
-
-
 
 ## Tuesday 1/07
 
