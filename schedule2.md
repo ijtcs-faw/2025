@@ -126,7 +126,7 @@ As quantum devices continue to scale, distributed quantum computing emerges as a
 scalable verification and trustworthy quantum machine learning of modular quantum processors.
 
 Reference: Wu, Bujiao, et al. "State Similarity in Modular Superconducting Quantum Processors with Classical Communications." arXiv preprint arXiv:2506.01657 (2025).
-
+<br><br>
 Biography: Bujiao Wu, an associate researcher at the International Quantum Academy. Her main research areas include the design of quantum algorithms, optimization of quantum circuits, quantum randomized measurements, quantum machine learning, and quantum advantages.
 </details>
  </td>
