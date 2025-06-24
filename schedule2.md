@@ -444,7 +444,7 @@ TBA
 <td>10:00</td>
 <td> 
 Finding a Set of Long Common Substrings with Repeats from m Input Strings <br> 
-Tiantian Li, Lusheng Wang, and Daming Zhu <br>
+Tiantian Li, <i>Lusheng Wang</i>, and Daming Zhu <br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
