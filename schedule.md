@@ -19,9 +19,13 @@
  <td><b>Opening, greetings and practical informations</b></td>
 </tr>
 <tr>
+ <td></td>
+ <td><b>Keynote 1</b> (chair: Christoph Dürr) </td>
+</tr>
+<tr>
 <td>9:05</td>
  <td>
-<b>Keynote 1:</b> <i>Xiaoming Sun</i>. Some mathematical problems in quantum circuit synthesis and optimization
+<b>Some mathematical problems in quantum circuit synthesis and optimization <br><i>Xiaoming Sun</i></b>
 <details>
 <summary>Abstract</summary>
 Quantum circuits, serving as the foundational mathematical framework for quantum algorithm design, have become one of the key research areas in the field of quantum computing. As the field transitions beyond the Noisy Intermediate-Scale Quantum (NISQ) era, the synthesis and optimization of quantum circuits have emerged as critical challenges. While classical circuit complexity primarily focuses on minimizing size and depth, the complexity of quantum circuits demands a multi-objective approach encompassing additional metrics involving the number of auxiliary qubits, different energy levels used, and many other aspects. In this talk, we will discuss a series of new problems and recent research progress in quantum circuit compression, and explore theoretical connections between these problems and classical important problems such as Babai's conjecture about the diameter of Cayley graphs.
@@ -31,6 +35,11 @@ Quantum circuits, serving as the foundational mathematical framework for quantum
 <tr>
  <td>9:55</td>
  <td><b>Short break</b></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td><b>Morning session</b> (chair: Minming Li) </td>
 </tr>
 
 <tr>
@@ -99,12 +108,12 @@ This paper investigates waitlist mechanisms for public housing allocation, intro
 </tr>
 
 <tr>
-<td>13:30</td>
- <td><b>Forum 1. Quantum Computing</b></td>
+<td></td>
+ <td><b>Forum 1. Quantum Computing</b> (chair: Kun He)</td>
 </tr>
 
 <tr>
-<td></td>
+<td>13:30</td>
  <td>
 <b>Forum 1-1.</b> Penghui Yao. On the Computational Power of QAC0 with Barely Superlinear Ancillae
 <details>
@@ -117,7 +126,7 @@ Biography: Penghui Yao is a professor in the Department of Computer Science and 
 </tr>
 
 <tr>
-<td></td>
+<td>14:00</td>
  <td>
 <b>Forum 1-2.</b> Bujiao Wu. State Similarity in Modular Superconducting Quantum Processors with Classical Communications
 <details>
@@ -133,7 +142,7 @@ Biography: Bujiao Wu, an associate researcher at the International Quantum Acade
 </tr>
 
 <tr>
-<td></td>
+<td>14:30</td>
  <td>
 <b>Forum 1-3.</b> Yiming Huang. Learning unitary process with autoregressive neural network
 <details><summary>Abstract</summary>
@@ -142,7 +151,10 @@ Biography: Yiming Huang, a postdoctoral fellow at the Center on Frontiers of Com
 </details>
  </td>
 </tr>
-
+<tr>
+<td></td>
+<td><b>Afternoon session</b> (chair: TBD) </td>
+</tr>
 <tr>
 <td>15:00</td>
 <td> 
@@ -238,10 +250,14 @@ Located in Sorbonne University, Campus les Cordeliers, 15 rue de l'École-de-mé
 </td>
 </tr>
 <tr>
-<td>09:00</td>
+<td>/td>
+<td><b>Keynote 2</b> (chair: Evripidis Bampis) </td>
+</tr>
+<tr>
+<td>9:00<</td>
 <td> 
-Regularization, Heuristics, and Strategy: A Long Journey Towards Understanding a Few Fundamental yet Fuzzy Concepts in Computing<br> 
-<i>Shanghua Teng</i><br>
+<b>Regularization, Heuristics, and Strategy: A Long Journey Towards Understanding a Few Fundamental yet Fuzzy Concepts in Computing<br> 
+<i>Shanghua Teng</i></b><br>
 <details><summary>Abstract</summary>
 TBA</details>
 </td>
@@ -251,6 +267,10 @@ TBA</details>
 <td>
 <b>Short break</b>
 </td>
+</tr>
+<tr>
+<td></td>
+<td><b>Morning session</b> (chair: TBD) </td>
 </tr>
 <tr>
 <td>10:00</td>
@@ -319,13 +339,12 @@ We study a variation of the facility location problem that involves finding idea
 </td>
 </tr>
 <tr>
-<td>14:00</td>
-<td> <b>Forum 2.</b> 
-Multi-agent Learning, Multi-agent System, Multi-agent Games<br>
+<td></td>
+<td><b>Forum 2. Multi-agent Learning, Multi-agent System, Multi-agent Games</b> (chair: TBD)<br>
 </td>
 </tr>
 <tr>
-<td> </td>
+<td>14:00</td>
 <td> 
 <b>Forum 2-1.</b> Title TBA<br> 
 <i>Mengyue Yang</i><br>
@@ -338,6 +357,10 @@ TBA</details>
 <td>
 <b>Coffee break</b>
 </td>
+</tr>
+<tr>
+<td></td>
+<td><b>Afternoon session</b> (chair: TBD) </td>
 </tr>
 <tr>
 <td>14:50</td>
@@ -430,9 +453,14 @@ Restaurant Macéo, 15 Rue des Petits Champs, 75001 Paris<br>
 </td>
 </tr>
 <tr>
-<td>09:00</td>
+<td></td>
+<td><b>Keynote 3</b> (chair: TBD) </td>
+</tr>
+<tr>
+<td>9:00</td>
 <td>
-<b>Keynote 3.</b> <i>Gabrielle Demange</i>. On stability in simple cooperative games 
+<b>On stability in simple cooperative games <br>
+<i>Gabrielle Demange</i></b>
 <details><summary>Abstract</summary>
 TBA
 </details>
@@ -443,6 +471,10 @@ TBA
 <td>
 <b>Short break</b>
 </td>
+</tr>
+<tr>
+<td></td>
+<td><b>Morning session</b> (chair: TBD) </td>
 </tr>
 <tr>
 <td>10:00</td>
@@ -459,7 +491,7 @@ In this paper, we propose two string problems, and study algorithms and complexi
 $k$-Universality of Regular Languages Revisited<br>
 Duncan Adamson, Pamela Fleischmann, <i>Annika Huch</i>, Tore Koß and Florin Manea<br>
 <details><summary>Abstract</summary>
-A subsequence of a word $w$ is a word $u$ such that $u = w[i_1] w[i_2] \cdots w[i_k]$, for some set of indices $1 \leq i_1 < i_2 < \dots < i_k \leq \vert w \vert$. A word $w$ is \emph{$k$-subsequence universal} over an alphabet $\Sigma$ if every word over $\Sigma$ up to length $k$ appears in $w$ as a subsequence. In this paper, we revisit the problem $k$-ESU of deciding, for a given integer $k$, whether a regular language, given either as nondeterministic finite automaton or as a regular expression, contains a $k$-universal word.  [Adamson et al., ISAAC 2023] showed that this problem is NP-hard, even in the case when $k=1$, and an FPT algorithm w.r.t. the size of the input alphabet was given. In this paper, we improve the aforementioned algorithmic result and complete the analysis of this problem w.r.t. other parameters. That is, we propose a more efficient FPT algorithm for $k$-ESU, with respect to the size of the input alphabet, and propose new FPT algorithms for this problem w.r.t.~the number of states of the input automaton and the length of the input regular expression. We also discuss corresponding lower bounds. Our results significantly improve the understanding of this problem.</details>
+A subsequence of a word $w$ is a word $u$ such that $u = w[i_1] w[i_2] \cdots w[i_k]$, for some set of indices $1 \leq i_1 < i_2 < \dots < i_k \leq \vert w \vert$. A word $w$ is <i>$k$-subsequence universal</i> over an alphabet $\Sigma$ if every word over $\Sigma$ up to length $k$ appears in $w$ as a subsequence. In this paper, we revisit the problem $k$-ESU of deciding, for a given integer $k$, whether a regular language, given either as nondeterministic finite automaton or as a regular expression, contains a $k$-universal word.  [Adamson et al., ISAAC 2023] showed that this problem is NP-hard, even in the case when $k=1$, and an FPT algorithm w.r.t. the size of the input alphabet was given. In this paper, we improve the aforementioned algorithmic result and complete the analysis of this problem w.r.t. other parameters. That is, we propose a more efficient FPT algorithm for $k$-ESU, with respect to the size of the input alphabet, and propose new FPT algorithms for this problem w.r.t.~the number of states of the input automaton and the length of the input regular expression. We also discuss corresponding lower bounds. Our results significantly improve the understanding of this problem.</details>
 </td>
 </tr>
 <tr>
@@ -507,18 +539,17 @@ The $s$-club cluster vertex deletion number of a graph, or sccvd, is the minimum
 <tr>
 <td>12:30</td>
 <td>
-<details><summary><b>Lunch break</b></summary>
-</details>
+<b>Lunch break</b>
+</td>
+</tr>
+<tr>
+<td></td>
+<td> 
+<b>Forum 3. Young Researcher Forum</b> (chair: TBD)<br>
 </td>
 </tr>
 <tr>
 <td>14:00</td>
-<td> 
-<b>Forum 3. Young Researcher Forum </b><br>
-</td>
-</tr>
-<tr>
-<td> </td>
 <td> 
 <b>Forum 3-1.</b> Breaking the Sorting Barrier for Directed Single-Source Shortest Paths<br> 
 <i>Xinkai Shu</i><br>
@@ -530,7 +561,7 @@ Biography: Xinkai Shu is a postdoctoral researcher at Max Planck Institute for I
 </td>
 </tr>
 <tr>
-<td> </td>
+<td>14:30</td>
 <td> 
 <b>Forum 3-2.</b> Can You Link Up With Treewidth?<br> 
 <i>Jiaheng Wang</i><br>
@@ -548,7 +579,7 @@ Biography: Jiaheng Wang is currently a postdoctoral researcher at the University
 </td>
 </tr>
 <tr>
-<td> </td>
+<td>15:00</td>
 <td> 
 <b>Forum 3-3.</b> Title TBA<br> 
 <i>Junyao Zhao</i><br>
