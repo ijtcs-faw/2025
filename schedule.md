@@ -575,6 +575,6 @@ have a safe trip home
 
 # Locations
 
-- The conference is located in Sorbonne University, Campus Pierre et Marie Curie, 4 place Jussieu, 75005 Paris, Métro Jussieu, tower 26, floor 1, room 26-25/109
+- The conference is located in Sorbonne University, Campus Pierre et Marie Curie, 4 place Jussieu, 75005 Paris, Métro Jussieu, tower 26, floor 1, room 26-25/105
 - The light reception is located in Sorbonne University, Campus les Cordeliers, 15 rue de l'École-de-médecine, 75006 Paris, Métro Odéon, room Marie-Curie. It is at walking distance from the conference site.
 - The gala dinner will be in a restaurant to be announced.
