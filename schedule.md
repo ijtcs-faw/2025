@@ -250,7 +250,7 @@ Located in Sorbonne University, Campus les Cordeliers, 15 rue de l'École-de-mé
 </td>
 </tr>
 <tr>
-<td>/td>
+<td></td>
 <td><b>Keynote 2</b> (chair: Evripidis Bampis) </td>
 </tr>
 <tr>
@@ -491,7 +491,7 @@ In this paper, we propose two string problems, and study algorithms and complexi
 $k$-Universality of Regular Languages Revisited<br>
 Duncan Adamson, Pamela Fleischmann, <i>Annika Huch</i>, Tore Koß and Florin Manea<br>
 <details><summary>Abstract</summary>
-A subsequence of a word $w$ is a word $u$ such that $u = w[i_1] w[i_2] \cdots w[i_k]$, for some set of indices $1 \leq i_1 < i_2 < \dots < i_k \leq \vert w \vert$. A word $w$ is <i>$k$-subsequence universal</i> over an alphabet $\Sigma$ if every word over $\Sigma$ up to length $k$ appears in $w$ as a subsequence. In this paper, we revisit the problem $k$-ESU of deciding, for a given integer $k$, whether a regular language, given either as nondeterministic finite automaton or as a regular expression, contains a $k$-universal word.  [Adamson et al., ISAAC 2023] showed that this problem is NP-hard, even in the case when $k=1$, and an FPT algorithm w.r.t. the size of the input alphabet was given. In this paper, we improve the aforementioned algorithmic result and complete the analysis of this problem w.r.t. other parameters. That is, we propose a more efficient FPT algorithm for $k$-ESU, with respect to the size of the input alphabet, and propose new FPT algorithms for this problem w.r.t.~the number of states of the input automaton and the length of the input regular expression. We also discuss corresponding lower bounds. Our results significantly improve the understanding of this problem.</details>
+A subsequence of a word $w$ is a word $u$ such that $u = w[i_1] w[i_2] \cdots w[i_k]$, for some set of indices $1 \leq i_1 < i_2 < \dots < i_k \leq \vert w \vert$. A word $w$ is $k$-subsequence universal over an alphabet $\Sigma$ if every word over $\Sigma$ up to length $k$ appears in $w$ as a subsequence. In this paper, we revisit the problem $k$-ESU of deciding, for a given integer $k$, whether a regular language, given either as nondeterministic finite automaton or as a regular expression, contains a $k$-universal word.  [Adamson et al., ISAAC 2023] showed that this problem is NP-hard, even in the case when $k=1$, and an FPT algorithm w.r.t. the size of the input alphabet was given. In this paper, we improve the aforementioned algorithmic result and complete the analysis of this problem w.r.t. other parameters. That is, we propose a more efficient FPT algorithm for $k$-ESU, with respect to the size of the input alphabet, and propose new FPT algorithms for this problem w.r.t.~the number of states of the input automaton and the length of the input regular expression. We also discuss corresponding lower bounds. Our results significantly improve the understanding of this problem.</details>
 </td>
 </tr>
 <tr>
