@@ -254,7 +254,7 @@ Located in Sorbonne University, Campus les Cordeliers, 15 rue de l'École-de-mé
 <td><b>Keynote 2</b> (chair: Evripidis Bampis) </td>
 </tr>
 <tr>
-<td>9:00<</td>
+<td>9:00</td>
 <td> 
 <b>Regularization, Heuristics, and Strategy: A Long Journey Towards Understanding a Few Fundamental yet Fuzzy Concepts in Computing<br> 
 <i>Shanghua Teng</i></b><br>
