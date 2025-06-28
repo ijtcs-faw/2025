@@ -586,16 +586,12 @@ Biography: Jiaheng Wang is currently a postdoctoral researcher at the University
 <tr>
 <td>15:00</td>
 <td> 
-<b>Forum 3-3.</b> Title TBA<br> 
+<b>Forum 3-3.</b> Universal Online Contention Resolution with Preselected Order<br> 
 <i>Junyao Zhao</i><br>
 <details><summary>Abstract</summary>
-TBA</details>
-</td>
-</tr>
-<tr>
-<td>15:30</td>
-<td> 
-<b>Coffee Break</b>
+Online contention resolution scheme (OCRS) is a powerful technique for online decision making, which given a matroid and a prior distribution of active elements, selects a subset of active elements that satisfies the matroid constraint in an online fashion. OCRS has been studied mostly for product distributions of active elements in the literature. Recently, universal OCRS, that works even for correlated distributions, has gained interest, because it naturally generalizes the classic notion, and its existence in the random-order arrival model turns out to be equivalent to the matroid secretary conjecture. However, currently very little is known about how to design universal OCRSs for any arrival model. In this work, we consider a natural and relatively flexible arrival model, where the OCRS is allowed to preselect (i.e., non-adaptively select) the arrival order of the elements, and within this model, we design simple and optimal universal OCRSs that are computationally efficient. In the course of deriving our OCRSs, we also discover an efficient reduction from universal online contention resolution to the matroid secretary problem for any arrival model, answering a question posed by Dughmi (2020).<br><br>
+
+Bio: Junyao Zhao is an FSMP postdoctoral fellow at IRIF (CNRS & Université Paris Cité). Before coming to Paris, he completed his Ph.D. studies in computer science at Stanford University, where he was advised by Aviad Rubinstein. He is broadly interested in algorithmic game theory, optimization, and learning. His recent research focuses on topics including simplicity vs. efficiency in algorithmic mechanism design, beyond-worst-case analysis, and strategic robustness of online learning algorithms.</details>
 </td>
 </tr>
 <tr>
