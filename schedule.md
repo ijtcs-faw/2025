@@ -153,7 +153,7 @@ Biography: Yiming Huang, a postdoctoral fellow at the Center on Frontiers of Com
 </tr>
 <tr>
 <td></td>
-<td><b>Afternoon session</b> (chair: TBD) </td>
+<td><b>Afternoon session</b> (chair: Thomas Erlebach) </td>
 </tr>
 <tr>
 <td>15:00</td>
