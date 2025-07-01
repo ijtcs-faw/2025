@@ -6,6 +6,9 @@
 | Afternoon | conference        | conference  | forum        | 
 | Evening   | light reception   | Banquet     |              | 
 
+## New Room
+
+for Tuesday and Wednesday: Leture hall 15
 
 ## Monday 30/06
 
@@ -608,6 +611,7 @@ have a safe trip home
 # Locations
 
 - The conference is located in Sorbonne University, Campus Pierre et Marie Curie, 4 place Jussieu, 75005 Paris, Métro Jussieu, tower 26, floor 1, room 26-25/109
+- Tuesday and Wednesday will be located in lecture hall 15
 - The light reception is located in Sorbonne University, Campus les Cordeliers, 15 rue de l'École-de-médecine, 75006 Paris, Métro Odéon, room Marie-Curie. It is at walking distance from the conference site.
 - The gala dinner will be in the Restaurant Macéo, 15 Rue des Petits Champs, 75001 Paris. 45 minutes walk from Jussieu. Or Métro line 7 from Jussieu to Pyramides in 22 minutes
 
