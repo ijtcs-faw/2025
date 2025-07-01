@@ -462,7 +462,7 @@ Restaurant Macéo, 15 Rue des Petits Champs, 75001 Paris<br>
 </tr>
 <tr>
 <td></td>
-<td><b>Keynote 3</b> (chair: TBD) </td>
+<td><b>Keynote 3</b> (chair: Vincent Chau) </td>
 </tr>
 <tr>
 <td>9:00</td>
@@ -482,7 +482,7 @@ TBA
 </tr>
 <tr>
 <td></td>
-<td><b>Morning session</b> (chair: TBD) </td>
+<td><b>Morning before break session</b> (chair: Christoph Dürr) </td>
 </tr>
 <tr>
 <td>10:00</td>
@@ -507,6 +507,10 @@ A subsequence of a word $w$ is a word $u$ such that $u = w[i_1] w[i_2] \cdots w[
 <td>
 <b>Coffee break</b>
 </td>
+</tr>
+<tr>
+<td></td>
+<td><b>Morning after break session</b> (chair: Felix Buld) </td>
 </tr>
 <tr>
 <td>11:10</td>
