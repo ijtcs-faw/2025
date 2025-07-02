@@ -468,7 +468,7 @@ Restaurant Macéo, 15 Rue des Petits Champs, 75001 Paris<br>
 <td><b>Keynote 3</b> (chair: Vincent Chau) </td>
 </tr>
 <tr>
-<td>9:00</td>
+<td>09:00</td>
 <td>
 <b>On stability in simple cooperative games <br>
 <i>Gabrielle Demange</i></b>
