@@ -278,7 +278,7 @@ Short-Bio: Shang-Hua Teng is a University Professor and Seely G. Mudd Professor 
 </tr>
 <tr>
 <td></td>
-<td><b>Morning session</b> (chair: TBD) </td>
+<td><b>Morning session</b> (chair: Ruilong Zhang) </td>
 </tr>
 <tr>
 <td>10:00</td>
@@ -348,16 +348,19 @@ We study a variation of the facility location problem that involves finding idea
 </tr>
 <tr>
 <td></td>
-<td><b>Forum 2. Multi-agent Learning, Multi-agent System, Multi-agent Games</b> (chair: TBD)<br>
+<td><b>Forum 2. Multi-agent Learning, Multi-agent System, Multi-agent Games</b> (chair: Ruilong Zhang)<br>
 </td>
 </tr>
 <tr>
 <td>14:00</td>
 <td> 
-<b>Forum 2-1.</b> Title TBA<br> 
+<b>Forum 2-1.</b> From Games to Graphs: Causal Mechanisms for Steering Multi-Agent Outcomes<br> 
 <i>Mengyue Yang</i><br>
 <details><summary>Abstract</summary>
-TBA</details>
+Multi-agent systems are increasingly deployed in dynamic environments where agents must coordinate their strategies to achieve optimal outcomes. However, conventional game-theoretic approaches often struggle with issues such as multiple Nash equilibria, limited agent controllability, and scalability constraints. In this talk, I will introduce a causal intervention perspective to address these challenges. By leveraging structural causal games and multi-agent influence diagrams, we reformulate coordination problems as inference tasks on causal graphs. This enables localized interventions - so-called pre-policy interventions, that steer agent behavior toward globally desirable equilibria, even when full control over all agents is infeasible. I will discuss how these methods align with human preferences, break cyclic dependencies in strategy updates, and enhance robustness in both simulated environments and real-world applications such as human-AI collaboration. This causal lens offers a principled framework for influencing emergent outcomes in complex multi-agent systems.<br><br>
+
+Bio: Mengyue Yang is a Lecturer in AI at the University of Bristol. Her research interests span causality, reinforcement learning, multi-agent systems, and world modeling. She received her PhD from University College London (UCL), where she developed influential methods for causal representation learning. Recognized as a Rising Star in AI in 2024, Mengyue actively contributes to the academic community by organizing international workshops and exploring interdisciplinary approaches to robust, dynamic decision-making systems.
+</details>
 </td>
 </tr>
 <tr>
@@ -368,7 +371,7 @@ TBA</details>
 </tr>
 <tr>
 <td></td>
-<td><b>Afternoon session</b> (chair: TBD) </td>
+<td><b>Afternoon session</b> (chair: Vincent Chau) </td>
 </tr>
 <tr>
 <td>14:50</td>
@@ -557,7 +560,7 @@ The $s$-club cluster vertex deletion number of a graph, or sccvd, is the minimum
 <tr>
 <td></td>
 <td> 
-<b>Forum 3. Young Researcher Forum</b> (chair: TBD)<br>
+<b>Forum 3. Young Researcher Forum</b> (chair: Yurong Chen)<br>
 </td>
 </tr>
 <tr>
