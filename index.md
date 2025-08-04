@@ -43,7 +43,10 @@ Submissions must be formatted in the [LNCS style](https://www.springer.com/gp/co
 
 The proceedings of the conference will be published by Springer-Verlag in the Lecture Notes in Computer Science (LNCS) series, and will be available for distribution at the conference. The use of pdflatex and the LNCS style is mandatory: papers that deviate significantly from the required format may be rejected without consideration of merit. No prior publication and no simultaneous submission to other conferences are allowed.
 
+[Proceedings](https://link.springer.com/book/10.1007/978-981-96-8312-3)
+
 Papers will be reviewed according to the following tracks that includes 
+
 
 #### Track A: the 19th Conference on Frontiers of Algorithmic Wisdom
 
